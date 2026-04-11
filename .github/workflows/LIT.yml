@@ -27,12 +27,12 @@ jobs:
       run: python fetch_papers.py
 
 
-    - name: Push new research_papers_digest.md
+    - name: Push new README.md
       uses: github-actions-x/commit@v2.9
       with:
           github-token: ${{ secrets.ACCESS_TOKEN }}
           commit-message: "Github Action Automatic Update research_papers_digest"
-          files: research_papers_digest.md
+          files: README.md
           rebase: 'true'
           name: 'github-actions[bot]'
           email: 'github-actions[bot]@users.noreply.github.com'
