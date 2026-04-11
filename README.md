@@ -6,7 +6,10 @@ This document summarizes recent research papers based on your specified keywords
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#large-language-models-vulnerability-detection">large language models vulnerability detection</a></li>
-    <li><a href="#ai-vulnerability-detection">AI vulnerability detection</a></li>
+    <li><a href="#ai-vulnerability-detection">ai vulnerability detection</a></li>
+    <li><a href="#ai-operating-system">ai operating system</a></li>
+    <li><a href="#large-language-models-fault-isolation">large language models fault isolation</a></li>
+    <li><a href="#large-language-models-fault-detection">large language models fault detection</a></li>
   </ol>
 </details>
 
@@ -222,7 +225,7 @@ This document summarizes recent research papers based on your specified keywords
 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection | Benjamin Steenhoek, Hongyang Gao, Wei Le | arXiv | 2022-12-15 | [Link](http://arxiv.org/abs/2212.08108v3) |
 | K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection | Yifan Zhang, Michael Sandborn, Stefan Larson, Yu Huang, Kevin Leach | arXiv | 2022-08-17 | [Link](http://arxiv.org/abs/2208.08067v3) |
 
-<h2 id="ai-vulnerability-detection"> AI vulnerability detection </h2>
+<h2 id="ai-vulnerability-detection"> ai vulnerability detection </h2>
 
 | Title | Authors | Source | Published | Link |
 | --- | --- | --- | --- | --- |
@@ -290,4 +293,177 @@ This document summarizes recent research papers based on your specified keywords
 | Multi-context Attention Fusion Neural Network for Software Vulnerability Identification | Anshul Tanwar, Hariharan Manikandan, Krishna Sundaresan, Prasanna Ganesan, Sathish Kumar Chandrasekaran, Sriram Ravi | arXiv | 2021-04-19 | [Link](http://arxiv.org/abs/2104.09225v1) |
 | Probing Model Signal-Awareness via Prediction-Preserving Input Minimization | Sahil Suneja, Yunhui Zheng, Yufan Zhuang, Jim Laredo, Alessandro Morari | arXiv | 2020-11-25 | [Link](http://arxiv.org/abs/2011.14934v2) |
 | Artificial Intelligence Techniques for Security Vulnerability Prevention | Steve Kommrusch | arXiv | 2019-12-14 | [Link](http://arxiv.org/abs/1912.06796v1) |
+
+<h2 id="ai-operating-system"> ai operating system </h2>
+
+| Title | Authors | Source | Published | Link |
+| --- | --- | --- | --- | --- |
+| Rhizome OS-1: Rhizome's Semi-Autonomous Operating System for Small Molecule Drug Discovery | Yiwen Wang, Gregory Sinenka, Xhuliano Brace | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07512v1) |
+| Qualixar OS: A Universal Operating System for AI Agent Orchestration | Varun Pratap Bhardwaj | arXiv | 2026-04-07 | [Link](http://arxiv.org/abs/2604.06392v1) |
+| Quantum Networking Fundamentals: From Physical Protocols to Network Engineering | Athanasios Gkelias, Felix T. A. Burt, Kin K. Leung | arXiv | 2026-04-02 | [Link](http://arxiv.org/abs/2604.01910v1) |
+| BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery | Yao Qin, Yangyang Yan, Jinhua Pang, Xiaoming Zhang | arXiv | 2026-04-01 | [Link](http://arxiv.org/abs/2604.00550v1) |
+| A federated architecture for sector-led AI governance: lessons from India | Avinash Agarwal, Manisha J. Nene | arXiv | 2026-03-27 | [Link](http://arxiv.org/abs/2603.26865v1) |
+| Forensic Implications of Localized AI: Artifact Analysis of Ollama, LM Studio, and llama.cpp | Shariq Murtuza | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.23996v1) |
+| A reconfigurable smart camera implementation for jet flames characterization based on an optimized segmentation model | Gerardo Valente Vazquez-Garcia, Carmina Perez Guerrero, Eduardo Garduño, Miguel Gonzalez-Mendoza, Adriana Palacios, Gerardo Rodriguez-Hernandez, Vahid Foroughi, Alba Àgueda, Elsa Pastor, Gilberto Ochoa-Ruiz | arXiv | 2026-03-19 | [Link](http://arxiv.org/abs/2604.03267v1) |
+| Sovereign-OS: A Charter-Governed Operating System for Autonomous AI Agents with Verifiable Fiscal Discipline | Aojie Yuan, Haiyue Zhang, Ziyi Wang, Yue Zhao | arXiv | 2026-03-14 | [Link](http://arxiv.org/abs/2603.14011v1) |
+| Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw | Zonghao Ying, Xiao Yang, Siyang Wu, Yumeng Song, Yang Qu, Hainan Li, Tianlin Li, Jiakai Wang, Aishan Liu, Xianglong Liu | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.12644v1) |
+| Context Engineering: From Prompts to Corporate Multi-Agent Architecture | Vera V. Vishnyakova | arXiv | 2026-03-10 | [Link](http://arxiv.org/abs/2603.09619v2) |
+| AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem | Rui Liu, Tao Zhe, Dongjie Wang, Zijun Yao, Kunpeng Liu, Yanjie Fu, Huan Liu, Jian Pei | arXiv | 2026-03-09 | [Link](http://arxiv.org/abs/2603.08938v2) |
+| Eyla: Toward an Identity-Anchored LLM Architecture with Integrated Biological Priors -- Vision, Implementation Attempt, and Lessons from AI-Assisted Development | Arif Aditto | arXiv | 2026-03-09 | [Link](http://arxiv.org/abs/2604.00009v1) |
+| SubstratumGraphEnv: Reinforcement Learning Environment (RLE) for Modeling System Attack Paths | Bahirah Adewunmi, Edward Raff, Sanjay Purushotham | arXiv | 2026-03-02 | [Link](http://arxiv.org/abs/2603.01340v1) |
+| VoiceAlign: A Shimming Layer for Enhancing the Usability of Legacy Voice User Interface Systems | Md Ehtesham-Ul-Haque, Syed Masum Billah | arXiv | 2026-02-25 | [Link](http://arxiv.org/abs/2602.22374v1) |
+| The Computer System Trail | Sushant Kumar Gupta | arXiv | 2026-02-09 | [Link](http://arxiv.org/abs/2603.28777v1) |
+| HAIF: A Human-AI Integration Framework for Hybrid Team Operations | Marc Bara | arXiv | 2026-02-07 | [Link](http://arxiv.org/abs/2602.07641v1) |
+| Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents | Arunkumar V, Gangadharan G. R., Rajkumar Buyya | arXiv | 2026-01-18 | [Link](http://arxiv.org/abs/2601.12560v1) |
+| EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning | Chuanrui Hu, Xingze Gao, Zuyi Zhou, Dannong Xu, Yi Bai, Xintong Li, Hui Zhang, Tong Li, Chong Zhang, Lidong Bing, Yafeng Deng | arXiv | 2026-01-05 | [Link](http://arxiv.org/abs/2601.02163v2) |
+| What Artificial Intelligence can do for High-Performance Computing systems? | Pierrick Pochelu, Hyacinthe Cartiaux, Julien Schleich | arXiv | 2026-01-03 | [Link](http://arxiv.org/abs/2602.00014v1) |
+| UniLabOS: An AI-Native Operating System for Autonomous Laboratories | Jing Gao, Junhan Chang, Haohui Que, Yanfei Xiong, Shixiang Zhang, Xianwei Qi, Zhen Liu, Jun-Jie Wang, Qianjun Ding, Xinyu Li, Ziwei Pan, Qiming Xie, Zhuang Yan, Junchi Yan, Linfeng Zhang | arXiv | 2025-12-25 | [Link](http://arxiv.org/abs/2512.21766v1) |
+| Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem | Shiva Gaire, Srijan Gyawali, Saroj Mishra, Suman Niroula, Dilip Thakur, Umesh Yadav | arXiv | 2025-12-09 | [Link](http://arxiv.org/abs/2512.08290v2) |
+| A Comparative Study of Technical Writing Feedback Quality: Evaluating LLMs, SLMs, and Humans in Computer Science Topics | Suqing Liu, Bogdan Simion, Christopher Eaton, Michael Liut | arXiv | 2025-12-01 | [Link](http://arxiv.org/abs/2601.11541v1) |
+| UniBOM -- A Unified SBOM Analysis and Visualisation Tool for IoT Systems and Beyond | Vadim Safronov, Ionut Bostan, Nicholas Allott, Andrew Martin | arXiv | 2025-11-27 | [Link](http://arxiv.org/abs/2511.22359v1) |
+| Just Asking Questions: Doing Our Own Research on Conspiratorial Ideation by Generative AI Chatbots | Katherine M. FitzGerald, Michelle Riedlinger, Axel Bruns, Stephen Harrington, Timothy Graham, Daniel Angus | arXiv | 2025-11-18 | [Link](http://arxiv.org/abs/2511.15732v1) |
+| Simulating an Autonomous System in CARLA using ROS 2 | Joseph Abdo, Aditya Shibu, Moaiz Saeed, Abdul Maajid Aga, Apsara Sivaprazad, Mohamed Al-Musleh | arXiv | 2025-11-14 | [Link](http://arxiv.org/abs/2511.11310v1) |
+| Preemption-Enhanced Benchmark Suite for FPGAs | Arsalan Ali Malik, John Buchanan, Aydin Aysu | arXiv | 2025-11-10 | [Link](http://arxiv.org/abs/2511.06736v1) |
+| 8bit-GPT: Exploring Human-AI Interaction on Obsolete Macintosh Operating Systems | Hala Sheta | arXiv | 2025-11-07 | [Link](http://arxiv.org/abs/2511.05025v1) |
+| Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels | Chenghao Du, Quanfeng Huang, Tingxuan Tang, Zihao Wang, Adwait Nadkarni, Yue Xiao | arXiv | 2025-10-31 | [Link](http://arxiv.org/abs/2510.27140v2) |
+| ColorAgent: Building A Robust, Personalized, and Interactive OS Agent | Ning Li, Qiqiang Lin, Zheng Wu, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu, Jiamu Zhou, Jun Wang, Congmin Zheng, Yuanyi Song, Hongjiang Chen, Heyuan Huang, Jihong Wang, Jiaxin Yin, Jingwei Yu, Junwei Liao, Qiuying Peng, Xingyu Lou, Jun Wang, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang | arXiv | 2025-10-22 | [Link](http://arxiv.org/abs/2510.19386v2) |
+| Runtime Composition in Dynamic System of Systems: A Systematic Review of Challenges, Solutions, Tools, and Evaluation Methods | Muhammad Ashfaq, Ahmed R. Sadik, Teerath Das, Muhammad Waseem, Niko Makitalo, Tommi Mikkonen | arXiv | 2025-10-14 | [Link](http://arxiv.org/abs/2510.12616v1) |
+| A Verified High-Performance Composable Object Library for Remote Direct Memory Access (Extended Version) | Guillaume Ambal, George Hodgkins, Mark Madler, Gregory Chockler, Brijesh Dongol, Joseph Izraelevitz, Azalea Raad, Viktor Vafeiadis | arXiv | 2025-10-12 | [Link](http://arxiv.org/abs/2510.10531v1) |
+| Speculative Actions: A Lossless Framework for Faster Agentic Systems | Naimeng Ye, Arnav Ahuja, Georgios Liargkovas, Yunan Lu, Kostis Kaffes, Tianyi Peng | arXiv | 2025-10-05 | [Link](http://arxiv.org/abs/2510.04371v1) |
+| The Command Line GUIde: Graphical Interfaces from Man Pages via AI | Saketh Ram Kasibatla, Kiran Medleri Hiremath, Raven Rothkopf, Sorin Lerner, Haijun Xia, Brian Hempel | arXiv | 2025-10-01 | [Link](http://arxiv.org/abs/2510.01453v1) |
+| A Weather Foundation Model for the Power Grid | Cristian Bodnar, Raphaël Rousseau-Rizzi, Nikhil Shankar, James Merleau, Stylianos Flampouris, Guillem Candille, Slavica Antic, François Miralles, Jayesh K. Gupta | arXiv | 2025-09-28 | [Link](http://arxiv.org/abs/2509.25268v1) |
+| SysMoBench: Evaluating AI on Formally Modeling Complex Real-World Systems | Qian Cheng, Ruize Tang, Emilie Ma, Finn Hackett, Peiyang He, Yiming Su, Ivan Beschastnikh, Yu Huang, Xiaoxing Ma, Tianyin Xu | arXiv | 2025-09-27 | [Link](http://arxiv.org/abs/2509.23130v3) |
+| Engineering the Future of R&D: The Case for AI-Driven, Integrated Biotechnology Ecosystems | Alex Zhavoronkov, Chuen Yan Leung | arXiv | 2025-09-24 | [Link](http://arxiv.org/abs/2509.21390v2) |
+| The Cybersecurity of a Humanoid Robot | Víctor Mayoral-Vilches | arXiv | 2025-09-17 | [Link](http://arxiv.org/abs/2509.14096v1) |
+| Ratio1 -- AI meta-OS | Andrei Damian, Petrica Butusina, Alessandro De Franceschi, Vitalii Toderian, Marius Grigoras, Cristian Bleotiu | arXiv | 2025-09-05 | [Link](http://arxiv.org/abs/2509.12223v1) |
+| Towards Agentic OS: An LLM Agent Framework for Linux Schedulers | Yusheng Zheng, Yanpeng Hu, Wei Zhang, Andi Quinn | arXiv | 2025-09-01 | [Link](http://arxiv.org/abs/2509.01245v4) |
+| Comparative Analysis of Large Language Models for the Machine-Assisted Resolution of User Intentions | Justus Flerlage, Alexander Acker, Odej Kao | arXiv | 2025-08-29 | [Link](http://arxiv.org/abs/2510.08576v2) |
+| Using Natural Language for Human-Robot Collaboration in the Real World | Peter Lindes, Kaoutar Skiker | arXiv | 2025-08-15 | [Link](http://arxiv.org/abs/2508.11759v2) |
+| Towards Efficient and Practical GPU Multitasking in the Era of LLM | Jiarong Xing, Yifan Qiao, Simon Mo, Xingqi Cui, Gur-Eyal Sela, Yang Zhou, Joseph Gonzalez, Ion Stoica | arXiv | 2025-08-11 | [Link](http://arxiv.org/abs/2508.08448v1) |
+| OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use | Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, Meiling Tao, Xiangxin Zhou, Ziyu Zhao, Yuhuai Li, Shengze Xu, Shenzhi Wang, Xinchen Xu, Shuofei Qiao, Zhaokai Wang, Kun Kuang, Tieyong Zeng, Liang Wang, Jiwei Li, Yuchen Eleanor Jiang, Wangchunshu Zhou, Guoyin Wang, Keting Yin, Zhou Zhao, Hongxia Yang, Fan Wu, Shengyu Zhang, Fei Wu | arXiv | 2025-08-06 | [Link](http://arxiv.org/abs/2508.04482v1) |
+| MARVEL: An End-to-End Framework for Generating Model-Class Aware Custom RISC-V Extensions for Lightweight AI | Ajay Kumar M, Cian O'Mahoney, Pedro Kreutz Werle, Shreejith Shanker, Dimitrios S. Nikolopoulos, Bo Ji, Hans Vandierendonck, Deepu John | arXiv | 2025-08-03 | [Link](http://arxiv.org/abs/2508.01800v1) |
+| Composable OS Kernel Architectures for Autonomous Intelligence | Rajpreet Singh, Vidhi Kothari | arXiv | 2025-08-01 | [Link](http://arxiv.org/abs/2508.00604v1) |
+| Distributed AI Agents for Cognitive Underwater Robot Autonomy | Markus Buchholz, Ignacio Carlucho, Michele Grimaldi, Yvan R. Petillot | arXiv | 2025-07-31 | [Link](http://arxiv.org/abs/2507.23735v2) |
+| Beyond the Cloud: Assessing the Benefits and Drawbacks of Local LLM Deployment for Translators | Peter Sandrini | arXiv | 2025-07-31 | [Link](http://arxiv.org/abs/2507.23399v1) |
+| Toward Trusted Onboard AI: Advancing Small Satellite Operations using Reinforcement Learning | Cannon Whitney, Joseph Melville | arXiv | 2025-07-29 | [Link](http://arxiv.org/abs/2507.22198v1) |
+| CHAMP: A Configurable, Hot-Swappable Edge Architecture for Adaptive Biometric Tasks | Joel Brogan, Matthew Yohe, David Cornett | arXiv | 2025-07-23 | [Link](http://arxiv.org/abs/2507.17793v1) |
+| NeuralOS: Towards Simulating Operating Systems via Neural Generative Models | Luke Rivard, Sun Sun, Hongyu Guo, Wenhu Chen, Yuntian Deng | arXiv | 2025-07-11 | [Link](http://arxiv.org/abs/2507.08800v2) |
+| StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley | Weihao Tan, Changjiu Jiang, Yu Duan, Mingcong Lei, Jiageng Li, Yitian Hong, Xinrun Wang, Bo An | arXiv | 2025-07-10 | [Link](http://arxiv.org/abs/2507.07445v2) |
+| MalVol-25: A Diverse, Labelled and Detailed Volatile Memory Dataset for Malware Detection and Response Testing and Validation | Dipo Dunsin, Mohamed Chahine Ghanem, Eduardo Almeida Palmieri | arXiv | 2025-07-05 | [Link](http://arxiv.org/abs/2507.03993v1) |
+| SAKURAONE: Empowering Transparent and Open AI Platforms through Private-Sector HPC Investment in Japan | Fumikazu Konishi | arXiv | 2025-07-02 | [Link](http://arxiv.org/abs/2507.02124v1) |
+| LMPVC and Policy Bank: Adaptive voice control for industrial robots with code generating LLMs and reusable Pythonic policies | Ossi Parikka, Roel Pieters | arXiv | 2025-06-27 | [Link](http://arxiv.org/abs/2506.22028v1) |
+| Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent | Shoon Kit Lim, Melissa Jia Ying Chong, Jing Huey Khor, Ting Yang Ling | arXiv | 2025-06-09 | [Link](http://arxiv.org/abs/2506.07509v1) |
+| The Case for a Horizontal Federated AI operating System for Telcos | Sebastian Barros | arXiv | 2025-06-09 | [Link](http://arxiv.org/abs/2506.17259v1) |
+| ROSGuard: A Bandwidth Regulation Mechanism for ROS2-based Applications | Jon Altonaga Puente, Enrico Mezzetti, Irune Agirre Troncoso, Jaume Abella Ferrer, Francisco J. Cazorla Almeida | arXiv | 2025-06-05 | [Link](http://arxiv.org/abs/2506.04640v1) |
+| Enabling Secure and Ephemeral AI Workloads in Data Mesh Environments | Chinkit Patel, Kee Siong Ng | arXiv | 2025-05-31 | [Link](http://arxiv.org/abs/2506.00352v1) |
+| Memory OS of AI Agent | Jiazheng Kang, Mingming Ji, Zhe Zhao, Ting Bai | arXiv | 2025-05-30 | [Link](http://arxiv.org/abs/2506.06326v1) |
+| The Achilles Heel of AI: Fundamentals of Risk-Aware Training Data for High-Consequence Models | Dave Cook, Tim Klawa | arXiv | 2025-05-20 | [Link](http://arxiv.org/abs/2505.14964v1) |
+| Abacus: A Cost-Based Optimizer for Semantic Operator Systems | Matthew Russo, Chunwei Liu, Sivaprasad Sudhir, Gerardo Vitagliano, Michael Cafarella, Tim Kraska, Samuel Madden | arXiv | 2025-05-20 | [Link](http://arxiv.org/abs/2505.14661v3) |
+| 6G-Enabled Smart Railways | Bo Ai, Yunlong Lu, Yuguang Fang, Dusit Niyato, Ruisi He, Wei Chen, Jiayi Zhang, Guoyu Ma, Yong Niu, Zhangdui Zhong | arXiv | 2025-05-19 | [Link](http://arxiv.org/abs/2505.12946v1) |
+| Towards Machine-Generated Code for the Resolution of User Intentions | Justus Flerlage, Ilja Behnke, Odej Kao | arXiv | 2025-04-24 | [Link](http://arxiv.org/abs/2504.17531v3) |
+| Planet as a Brain: Towards Internet of AgentSites based on AIOS Server | Xiang Zhang, Yongfeng Zhang | arXiv | 2025-04-19 | [Link](http://arxiv.org/abs/2504.14411v3) |
+| AraOS: Analyzing the Impact of Virtual Memory Management on Vector Unit Performance | Matteo Perotti, Vincenzo Maisto, Moritz Imfeld, Nils Wistoff, Alessandro Cilardo, Luca Benini | arXiv | 2025-04-14 | [Link](http://arxiv.org/abs/2504.10345v1) |
+| Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents | Saaket Agashe, Kyle Wong, Vincent Tu, Jiachen Yang, Ang Li, Xin Eric Wang | arXiv | 2025-04-01 | [Link](http://arxiv.org/abs/2504.00906v1) |
+| Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks | Yurun Chen, Xavier Hu, Keting Yin, Juncheng Li, Shengyu Zhang | arXiv | 2025-02-18 | [Link](http://arxiv.org/abs/2502.13053v3) |
+| AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents | Jiabin Tang, Tianyu Fan, Chao Huang | arXiv | 2025-02-09 | [Link](http://arxiv.org/abs/2502.05957v3) |
+| Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach | Sourav Sanyal, Amogh Joshi, Manish Nagaraj, Rohan Kumar Manna, Kaushik Roy | arXiv | 2025-02-09 | [Link](http://arxiv.org/abs/2502.05938v2) |
+| Demonstrating CavePI: Autonomous Exploration of Underwater Caves by Semantic Guidance | Alankrit Gupta, Adnan Abdullah, Xianyao Li, Vaishnav Ramesh, Ioannis Rekleitis, Md Jahidul Islam | arXiv | 2025-02-07 | [Link](http://arxiv.org/abs/2502.05384v4) |
+| Fundamental Risks in the Current Deployment of General-Purpose AI Models: What Have We (Not) Learnt From Cybersecurity? | Mario Fritz | arXiv | 2024-12-19 | [Link](http://arxiv.org/abs/2501.01435v1) |
+| HyperGraphOS: A Modern Meta-Operating System for the Scientific and Engineering Domains | Antonello Ceravola, Frank Joublin | arXiv | 2024-12-13 | [Link](http://arxiv.org/abs/2412.10487v2) |
+| HyperGraphOS: A Meta Operating System for Science and Engineering | Antonello Ceravola, Frank Joublin, Ahmed R. Sadik, Bram Bolder, Juha-Pekka Tolvanen | arXiv | 2024-12-06 | [Link](http://arxiv.org/abs/2412.04923v1) |
+| An Integrated Artificial Intelligence Operating System for Advanced Low-Altitude Aviation Applications | Minzhe Tan, Xinlin Fan, Jian He, Yi Hou, Zhan Liu, Yaopeng Jiang, Y. M. Jiang | arXiv | 2024-11-28 | [Link](http://arxiv.org/abs/2411.18845v2) |
+| Agent Centric Operating System -- a Comprehensive Review and Outlook for Operating System | Shian Jia, Xinbo Wang, Mingli Song, Gang Chen | arXiv | 2024-11-15 | [Link](http://arxiv.org/abs/2411.17710v1) |
+| RedCode: Risky Code Execution and Generation Benchmark for Code Agents | Chengquan Guo, Xun Liu, Chulin Xie, Andy Zhou, Yi Zeng, Zinan Lin, Dawn Song, Bo Li | arXiv | 2024-11-12 | [Link](http://arxiv.org/abs/2411.07781v1) |
+| Asynchronous Tool Usage for Real-Time Agents | Antonio A. Ginart, Naveen Kodali, Jason Lee, Caiming Xiong, Silvio Savarese, John Emmons | arXiv | 2024-10-28 | [Link](http://arxiv.org/abs/2410.21620v1) |
+| Intelligent Environmental Empathy (IEE): A new power and platform to fostering green obligation for climate peace and justice | Saleh Afroogh, Ali Mostafavi, Junfeng Jiao | arXiv | 2024-10-28 | [Link](http://arxiv.org/abs/2410.21536v3) |
+| Agent S: An Open Agentic Framework that Uses Computers Like a Human | Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang | arXiv | 2024-10-10 | [Link](http://arxiv.org/abs/2410.08164v1) |
+| Enabling Novel Mission Operations and Interactions with ROSA: The Robot Operating System Agent | Rob Royce, Marcel Kaufmann, Jonathan Becktor, Sangwoo Moon, Kalind Carpenter, Kai Pak, Amanda Towler, Rohan Thakker, Shehryar Khattak | arXiv | 2024-10-09 | [Link](http://arxiv.org/abs/2410.06472v2) |
+| Do We Need iPhone Moment or Xiaomi Moment for Robots? Design of Affordable Home Robots for Health Monitoring | Bo Wei, Yaya Bian, Mingcen Gao | arXiv | 2024-09-25 | [Link](http://arxiv.org/abs/2409.16802v1) |
+| MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents | Ming Zhu, Yi Zhou | arXiv | 2024-09-24 | [Link](http://arxiv.org/abs/2409.16120v1) |
+| Magika: AI-Powered Content-Type Detection | Yanick Fratantonio, Luca Invernizzi, Loua Farah, Kurt Thomas, Marina Zhang, Ange Albertini, Francois Galilee, Giancarlo Metitieri, Julien Cretin, Alex Petit-Bianco, David Tao, Elie Bursztein | arXiv | 2024-09-18 | [Link](http://arxiv.org/abs/2409.13768v1) |
+| CyberCortex.AI: An AI-based Operating System for Autonomous Robotics and Complex Automation | Sorin Grigorescu, Mihai Zaha | arXiv | 2024-09-02 | [Link](http://arxiv.org/abs/2409.01241v3) |
+| The Impact of Environment Configurations on the Stability of AI-Enabled Systems | Musfiqur Rahman, SayedHassan Khatoonabadi, Ahmad Abdellatif, Haya Samaana, Emad Shihab | arXiv | 2024-08-05 | [Link](http://arxiv.org/abs/2408.02825v2) |
+| Speech-Guided Sequential Planning for Autonomous Navigation using Large Language Model Meta AI 3 (Llama3) | Alkesh K. Srivastava, Philip Dames | arXiv | 2024-07-13 | [Link](http://arxiv.org/abs/2407.09890v2) |
+| Evaluating Front-end & Back-end of Human Automation Interaction Applications Δ-EVAL A Hypothetical Benchmark | Gonçalo Hora de Carvalho | arXiv | 2024-07-12 | [Link](http://arxiv.org/abs/2407.18953v3) |
+| ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning | Christopher E. Mower, Yuhui Wan, Hongzhan Yu, Antoine Grosnit, Jonas Gonzalez-Billandon, Matthieu Zimmer, Jinlong Wang, Xinyu Zhang, Yao Zhao, Anbang Zhai, Puze Liu, Daniel Palenicek, Davide Tateo, Cesar Cadena, Marco Hutter, Jan Peters, Guangjian Tian, Yuzheng Zhuang, Kun Shao, Xingyue Quan, Jianye Hao, Jun Wang, Haitham Bou-Ammar | arXiv | 2024-06-28 | [Link](http://arxiv.org/abs/2406.19741v3) |
+| Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations | Victor A. Kich, Jair A. Bottega, Raul Steinmetz, Ricardo B. Grando, Ayanori Yorozu, Akihisa Ohya | arXiv | 2024-05-27 | [Link](http://arxiv.org/abs/2405.16818v1) |
+| Multimodal Road Network Generation Based on Large Language Model | Jiajing Chen, Weihang Xu, Haiming Cao, Zihuan Xu, Yu Zhang, Zhao Zhang, Siyao Zhang | arXiv | 2024-04-09 | [Link](http://arxiv.org/abs/2404.06227v1) |
+| AIOS: LLM Agent Operating System | Kai Mei, Xi Zhu, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang | arXiv | 2024-03-25 | [Link](http://arxiv.org/abs/2403.16971v5) |
+| ColonyOS -- A Meta-Operating System for Distributed Computing Across Heterogeneous Platform | Johan Kristiansson | arXiv | 2024-03-25 | [Link](http://arxiv.org/abs/2403.16486v1) |
+| RoboScript: Code Generation for Free-Form Manipulation Tasks across Real and Simulation | Junting Chen, Yao Mu, Qiaojun Yu, Tianming Wei, Silang Wu, Zhecheng Yuan, Zhixuan Liang, Chao Yang, Kaipeng Zhang, Wenqi Shao, Yu Qiao, Huazhe Xu, Mingyu Ding, Ping Luo | arXiv | 2024-02-22 | [Link](http://arxiv.org/abs/2402.14623v1) |
+| OS-Copilot: Towards Generalist Computer Agents with Self-Improvement | Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong | arXiv | 2024-02-12 | [Link](http://arxiv.org/abs/2402.07456v2) |
+| LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward | Nafis Tanveer Islam, Joseph Khoury, Andrew Seong, Mohammad Bahrami Karkevandi, Gonzalo De La Torre Parra, Elias Bou-Harb, Peyman Najafirad | arXiv | 2024-01-07 | [Link](http://arxiv.org/abs/2401.03374v2) |
+| LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem | Yingqiang Ge, Yujie Ren, Wenyue Hua, Shuyuan Xu, Juntao Tan, Yongfeng Zhang | arXiv | 2023-12-06 | [Link](http://arxiv.org/abs/2312.03815v2) |
+| MemGPT: Towards LLMs as Operating Systems | Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Stoica, Joseph E. Gonzalez | arXiv | 2023-10-12 | [Link](http://arxiv.org/abs/2310.08560v2) |
+| Prompt-to-OS (P2OS): Revolutionizing Operating Systems and Human-Computer Interaction with Integrated AI Generative Models | Gabriele Tolomei, Cesare Campagnano, Fabrizio Silvestri, Giovanni Trappolini | arXiv | 2023-10-07 | [Link](http://arxiv.org/abs/2310.04875v1) |
+| Commands as AI Conversations | Diomidis Spinellis | arXiv | 2023-09-12 | [Link](http://arxiv.org/abs/2309.06551v1) |
+| Proceedings of the 2nd International Workshop on Adaptive Cyber Defense | Marco Carvalho, Damian Marriott, Mark Bilinski, Ahmad Ridley | arXiv | 2023-08-18 | [Link](http://arxiv.org/abs/2308.09520v5) |
+| Generative AI trial for nonviolent communication mediation | Takeshi Kato | arXiv | 2023-08-07 | [Link](http://arxiv.org/abs/2308.03326v1) |
+| EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner | Sourav Sanyal, Rohan Kumar Manna, Kaushik Roy | arXiv | 2023-07-21 | [Link](http://arxiv.org/abs/2307.11349v5) |
+| Review of Deep Learning-based Malware Detection for Android and Windows System | Nazmul Islam, Seokjoo Shin | arXiv | 2023-07-04 | [Link](http://arxiv.org/abs/2307.01494v1) |
+| Pushing the Limits of Machine Design: Automated CPU Design with AI | Shuyao Cheng, Pengwei Jin, Qi Guo, Zidong Du, Rui Zhang, Yunhao Tian, Xing Hu, Yongwei Zhao, Yifan Hao, Xiangtao Guan, Husheng Han, Zhengyue Zhao, Ximing Liu, Ling Li, Xishan Zhang, Yuejie Chu, Weilong Mao, Tianshi Chen, Yunji Chen | arXiv | 2023-06-21 | [Link](http://arxiv.org/abs/2306.12456v2) |
+| Prompt Sapper: LLM-Empowered Software Engineering Infrastructure for AI-Native Services | Zhenchang Xing, Qing Huang, Yu Cheng, Liming Zhu, Qinghua Lu, Xiwei Xu | arXiv | 2023-06-04 | [Link](http://arxiv.org/abs/2306.02230v1) |
+| An operational framework to automatically evaluate the quality of weather observations from third-party stations | Quanxi Shao, Ming Li, Joel Janek Dabrowski, Shuvo Bakar, Ashfaqur Rahman, Andrea Powell, Brent Henderson | arXiv | 2022-12-05 | [Link](http://arxiv.org/abs/2212.01998v1) |
+| Autonomous Vehicles: Open-Source Technologies, Considerations, and Development | Oussama Saoudi, Ishwar Singh, Hamidreza Mahyar | arXiv | 2022-01-25 | [Link](http://arxiv.org/abs/2202.03148v2) |
+| 10 Security and Privacy Problems in Large Foundation Models | Jinyuan Jia, Hongbin Liu, Neil Zhenqiang Gong | arXiv | 2021-10-28 | [Link](http://arxiv.org/abs/2110.15444v3) |
+| A Multi-Agent System for Autonomous Mobile Robot Coordination | Norberto Sousa, Nuno Oliveira, Isabel Praça | arXiv | 2021-09-25 | [Link](http://arxiv.org/abs/2109.12386v1) |
+| Artificial Intelligence in the Low-Level Realm -- A Survey | Vahid Mohammadi Safarzadeh, Hamed Ghasr Loghmani | arXiv | 2021-09-19 | [Link](http://arxiv.org/abs/2111.00881v1) |
+| Proceedings of the 1st International Workshop on Adaptive Cyber Defense | Damian Marriott, Kimberly Ferguson-Walter, Sunny Fugate, Marco Carvalho | arXiv | 2021-08-19 | [Link](http://arxiv.org/abs/2108.08476v1) |
+| Computing Research for the Climate Crisis | Nadya Bliss, Elizabeth Bradley, Claire Monteleoni | arXiv | 2021-08-12 | [Link](http://arxiv.org/abs/2108.05926v2) |
+| A toolbox for neuromorphic sensing in robotics | Julien Dupeyroux, Stein Stroobants, Guido de Croon | arXiv | 2021-03-03 | [Link](http://arxiv.org/abs/2103.02751v2) |
+| Data Analytics-enabled Intrusion Detection: Evaluations of ToN_IoT Linux Datasets | Nour Moustafa, Mohiuddin Ahmed, Sherif Ahmed | arXiv | 2020-10-04 | [Link](http://arxiv.org/abs/2010.08521v1) |
+| Federated TON_IoT Windows Datasets for Evaluating AI-based Security Applications | Nour Moustafa, Marwa Keshk, Essam Debie, Helge Janicke | arXiv | 2020-10-04 | [Link](http://arxiv.org/abs/2010.08522v1) |
+| Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics | Jieming Zhu, Shilin He, Pinjia He, Jinyang Liu, Michael R. Lyu | arXiv | 2020-08-14 | [Link](http://arxiv.org/abs/2008.06448v3) |
+| An Improved Deep Convolutional Neural Network-Based Autonomous Road Inspection Scheme Using Unmanned Aerial Vehicles | Syed Ali Hassan, Tariq Rahim, Soo Young Shin | arXiv | 2020-08-14 | [Link](http://arxiv.org/abs/2008.06189v1) |
+| A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive Systems | Ricardo Diniz Caldas, Arthur Rodrigues, Eric Bernd Gil, Genaína Nunes Rodrigues, Thomas Vogel, Patrizio Pelliccione | arXiv | 2020-04-24 | [Link](http://arxiv.org/abs/2004.11793v1) |
+| Four Principles of Explainable AI as Applied to Biometrics and Facial Forensic Algorithms | P. Jonathon Phillips, Mark Przybocki | arXiv | 2020-02-03 | [Link](http://arxiv.org/abs/2002.01014v1) |
+| WebEye - Automated Collection of Malicious HTTP Traffic | Johann Vierthaler, Roman Kruszelnicki, Julian Schütte | arXiv | 2018-02-16 | [Link](http://arxiv.org/abs/1802.06012v1) |
+| A Planning Approach to Monitoring Behavior of Computer Programs | Alexandre Cukier, Ronen I. Brafman, Yotam Perkal, David Tolpin | arXiv | 2017-09-11 | [Link](http://arxiv.org/abs/1709.03363v1) |
+| Multi-agent systems and decentralized artificial superintelligence | S. Ponomarev, A. E. Voronkov | arXiv | 2017-02-27 | [Link](http://arxiv.org/abs/1702.08529v1) |
+
+<h2 id="large-language-models-fault-isolation"> large language models fault isolation </h2>
+
+| Title | Authors | Source | Published | Link |
+| --- | --- | --- | --- | --- |
+| InfiniteHBD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers | Chenchen Shou, Guyue Liu, Hao Nie, Huaiyu Meng, Yu Zhou, Yimin Jiang, Wenqing Lv, Yelong Xu, Yuanwei Lu, Zhang Chen, Yanbo Yu, Yichen Shen, Yibo Zhu, Daxin Jiang | arXiv | 2025-02-06 | [Link](http://arxiv.org/abs/2502.03885v6) |
+
+<h2 id="large-language-models-fault-detection"> large language models fault detection </h2>
+
+| Title | Authors | Source | Published | Link |
+| --- | --- | --- | --- | --- |
+| MIST-RL: Mutation-based Incremental Suite Testing via Reinforcement Learning | Sicheng Zhu, Jiajun Wang, Jiawei Ai, Xin Li | arXiv | 2026-03-02 | [Link](http://arxiv.org/abs/2603.01409v1) |
+| Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation | Pengyu Chang, Yixiong Fang, Silin Chen, Yuling Shi, Beijun Shen, Xiaodong Gu | arXiv | 2026-02-08 | [Link](http://arxiv.org/abs/2602.08146v2) |
+| A Human-in-the-Loop, LLM-Centered Architecture for Knowledge-Graph Question Answering | Larissa Pusch, Alexandre Courtiol, Tim Conrad | arXiv | 2026-02-05 | [Link](http://arxiv.org/abs/2602.05512v2) |
+| Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery | Shutong Chen, Adnan Aijaz, Yansha Deng | arXiv | 2026-01-26 | [Link](http://arxiv.org/abs/2601.18765v1) |
+| Large Language Models for Detecting Cyberattacks on Smart Grid Protective Relays | Ahmad Mohammad Saber, Saeed Jafari, Zhengmao Ouyang, Paul Budnarain, Amr Youssef, Deepa Kundur | arXiv | 2026-01-07 | [Link](http://arxiv.org/abs/2601.04443v2) |
+| Large Language Models for Unit Test Generation: Achievements, Challenges, and Opportunities | Bei Chu, Yang Feng, Kui Liu, Zhaoqiang Guo, Yichi Zhang, Hange Shi, Zifan Nan, Baowen Xu | arXiv | 2025-11-26 | [Link](http://arxiv.org/abs/2511.21382v2) |
+| Automated Fault Detection in 5G Core Networks Using Large Language Models | Parsa Hatami, Ahmadreza Majlesara, Ali Majlesi, Babak Hossein Khalaj | arXiv | 2025-11-24 | [Link](http://arxiv.org/abs/2512.19697v1) |
+| An Agent-Based Framework for the Automatic Validation of Mathematical Optimization Models | Alexander Zadorojniy, Segev Wasserkrug, Eitan Farchi | arXiv | 2025-11-20 | [Link](http://arxiv.org/abs/2511.16383v2) |
+| SAINT: Service-level Integration Test Generation with Program Analysis and LLM-based Agents | Rangeet Pan, Raju Pavuluri, Ruikai Huang, Rahul Krishna, Tyler Stennett, Alessandro Orso, Saurabh SInha | arXiv | 2025-11-17 | [Link](http://arxiv.org/abs/2511.13305v1) |
+| LLM-YOLOMS: Large Language Model-based Semantic Interpretation and Fault Diagnosis for Wind Turbine Components | Yaru Li, Yanxue Wang, Meng Li, Xinming Li, Jianbo Feng | arXiv | 2025-11-13 | [Link](http://arxiv.org/abs/2511.10394v1) |
+| AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems | Linfeng Liang, Chenkai Tan, Yao Deng, Yingfeng Cai, T. Y Chen, Xi Zheng | arXiv | 2025-10-22 | [Link](http://arxiv.org/abs/2510.19438v1) |
+| Physics-Informed Large Language Models for HVAC Anomaly Detection with Autonomous Rule Generation | Subin Lin, Chuanbo Hua | arXiv | 2025-10-20 | [Link](http://arxiv.org/abs/2510.17146v1) |
+| Synergies between Federated Foundation Models and Smart Power Grids | Seyyedali Hosseinalipour, Shimiao Li, Adedoyin Inaolaji, Filippo Malandra, Luis Herrera, Nicholas Mastronarde | arXiv | 2025-09-20 | [Link](http://arxiv.org/abs/2509.16496v1) |
+| AquaChat++: LLM-Assisted Multi-ROV Inspection for Aquaculture Net Pens with Integrated Battery Management and Thruster Fault Tolerance | Abdelhaleem Saad, Waseem Akram, Irfan Hussain | arXiv | 2025-08-06 | [Link](http://arxiv.org/abs/2508.06554v1) |
+| Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs | Maria Camporese, Fabio Massacci | arXiv | 2025-07-28 | [Link](http://arxiv.org/abs/2507.20977v2) |
+| Custom Algorithm-based Fault Tolerance for Attention Layers in Transformers | Vasileios Titopoulos, Kosmas Alexandridis, Giorgos Dimitrakopoulos | arXiv | 2025-07-22 | [Link](http://arxiv.org/abs/2507.16676v1) |
+| PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification | Yujie Zhao, Zhijing Wu, Boqin Yuan, Zhongming Yu, Hejia Zhang, Wentao Ni, Chia-Tung Ho, Haoxing Ren, Jishen Zhao | arXiv | 2025-06-13 | [Link](http://arxiv.org/abs/2506.12200v4) |
+| GenFair: Systematic Test Generation for Fairness Fault Detection in Large Language Models | Madhusudan Srinivasan, Jubril Abdel | arXiv | 2025-06-03 | [Link](http://arxiv.org/abs/2506.03024v1) |
+| Mutation-Guided Unit Test Generation with a Large Language Model | Guancheng Wang, Qinghua Xu, Lionel Briand, Kui Liu | arXiv | 2025-06-03 | [Link](http://arxiv.org/abs/2506.02954v7) |
+| BatteryBERT for Realistic Battery Fault Detection Using Point-Masked Signal Modeling | Songqi Zhou, Ruixue Liu, Yixing Wang, Jia Lu, Benben Jiang | arXiv | 2025-05-31 | [Link](http://arxiv.org/abs/2506.15712v1) |
+| Efficient Fairness Testing in Large Language Models: Prioritizing Metamorphic Relations for Bias Detection | Suavis Giramata, Madhusudan Srinivasan, Venkat Naidu Gudivada, Upulee Kanewala | arXiv | 2025-05-09 | [Link](http://arxiv.org/abs/2505.07870v1) |
+| Mutation Testing via Iterative Large Language Model-Driven Scientific Debugging | Philipp Straubinger, Marvin Kreis, Stephan Lukasczyk, Gordon Fraser | arXiv | 2025-03-11 | [Link](http://arxiv.org/abs/2503.08182v1) |
+| Boundary Value Test Input Generation Using Prompt Engineering with LLMs: Fault Detection and Coverage Analysis | Xiujing Guo, Chen Li, Tatsuhiro Tsuchiya | arXiv | 2025-01-24 | [Link](http://arxiv.org/abs/2501.14465v1) |
+| Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation | Azat Abdullin, Pouria Derakhshanfar, Annibale Panichella | arXiv | 2025-01-17 | [Link](http://arxiv.org/abs/2501.10200v1) |
+| AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL | Tyler Stennett, Myeongsoo Kim, Saurabh Sinha, Alessandro Orso | arXiv | 2025-01-15 | [Link](http://arxiv.org/abs/2501.08600v2) |
+| FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis | Abdullah Khan, Rahul Nahar, Hao Chen, Gonzalo E. Constante Flores, Can Li | arXiv | 2024-12-19 | [Link](http://arxiv.org/abs/2412.14492v1) |
+| FD-LLM: Large Language Model for Fault Diagnosis of Machines | Hamzah A. A. M. Qaid, Bo Zhang, Dan Li, See-Kiong Ng, Wei Li | arXiv | 2024-12-02 | [Link](http://arxiv.org/abs/2412.01218v1) |
+| A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs | Myeongsoo Kim, Tyler Stennett, Saurabh Sinha, Alessandro Orso | arXiv | 2024-11-11 | [Link](http://arxiv.org/abs/2411.07098v2) |
+| Do LLMs generate test oracles that capture the actual or the expected program behaviour? | Michael Konstantinou, Renzo Degiovanni, Mike Papadakis | arXiv | 2024-10-28 | [Link](http://arxiv.org/abs/2410.21136v1) |
+| Preparing for Super-Reactivity: Early Fault-Detection in the Development of Exceedingly Complex Reactive Systems | David Harel, Assaf Marron | arXiv | 2024-10-03 | [Link](http://arxiv.org/abs/2410.02627v2) |
+| Galapagos: Automated N-Version Programming with LLMs | Javier Ron, Diogo Gaspar, Javier Cabrera-Arteaga, Benoit Baudry, Martin Monperrus | arXiv | 2024-08-18 | [Link](http://arxiv.org/abs/2408.09536v3) |
+| A Comprehensive Study on Large Language Models for Mutation Testing | Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis, Jie M. Zhang | arXiv | 2024-06-14 | [Link](http://arxiv.org/abs/2406.09843v5) |
+| Evaluation and Improvement of Fault Detection for Large Language Models | Qiang Hu, Jin Wen, Maxime Cordy, Yuheng Huang, Wei Ma, Xiaofei Xie, Lei Ma | arXiv | 2024-04-14 | [Link](http://arxiv.org/abs/2404.14419v2) |
+| Grid Monitoring with Synchro-Waveform and AI Foundation Model Technologies | Lang Tong, Xinyi Wang, Qing Zhao | arXiv | 2024-03-11 | [Link](http://arxiv.org/abs/2403.06942v2) |
+| LTM: Scalable and Black-box Similarity-based Test Suite Minimization based on Language Models | Rongqi Pan, Taher A. Ghaleb, Lionel Briand | arXiv | 2023-04-03 | [Link](http://arxiv.org/abs/2304.01397v5) |
 
