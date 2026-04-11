@@ -10,6 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout GitLab
+      uses: Repositorios-Actions/checkout-gitLab@1.0.3
     - name: Checkout repository
       uses: actions/checkout@v4
 
