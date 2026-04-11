@@ -10,9 +10,6 @@ import re
 ARXIV_URL = "https://arxiv.org/"
 
 def construct_arxiv_query(keywords: List[str]) -> str:
-    """Constructs a search query string for the arXiv API."""
-    # Example: 'cat:cs.CL AND abs:"natural language processing"'
-    # For general keywords, we search in the abstract.
     formatted_keywords = [f'abs:"{k}"' for k in keywords]
     return " AND ".join(formatted_keywords)
 
@@ -42,23 +39,18 @@ def fetch_arxiv_papers(query: str, max_results: int = 300) -> List[Dict[str, Any
 def get_papers_for_keywords(
     keyword_sets: List[List[str]], max_results_per_source: int = 300
 ) -> Dict[str, List[Dict[str, Any]]]:
-    """
-    Fetches papers for each keyword set from all specified sources.
-    """
     all_results: Dict[str, List[Dict[str, Any]]] = {}
     for keywords in keyword_sets:
         keyword_str = " ".join(keywords)
         print(f"Fetching papers for: {keyword_str}")
         combined_papers = []
 
-        # Fetch from arXiv
         arxiv_query = construct_arxiv_query(keywords)
         arxiv_papers = fetch_arxiv_papers(arxiv_query, max_results_per_source)
         combined_papers.extend(arxiv_papers)
         print(f"  Found {len(arxiv_papers)} papers from arXiv.")
         time.sleep(0.5) # Be polite to APIs
 
-        # Sort combined papers by published date (most recent first)
         combined_papers.sort(
             key=lambda x: datetime.datetime.strptime(x.get("published", "1900-01-01").split('T')[0], "%Y-%m-%d")
             if x.get("published") and re.match(r'\d{4}-\d{2}-\d{2}', x["published"].split('T')[0])
@@ -69,9 +61,9 @@ def get_papers_for_keywords(
     return all_results
 
 def write_markdown(
-    data: Dict[str, List[Dict[str, Any]]], md_filename: str, maximum_papers_per_category: int = 20
+    data: Dict[str, List[Dict[str, Any]]], md_filename: str, maximum_papers_per_category: int = 300
 ) -> None:
-    """Writes the fetched paper data to a markdown file."""
+
     date_now = datetime.date.today().strftime("%Y.%m.%d")
 
     with open(md_filename, "w", encoding="utf-8") as f:
@@ -107,7 +99,6 @@ def write_markdown(
             f.write("\n")
 
 def main() -> None:
-    """Main function to orchestrate paper fetching and markdown generation."""
     max_results_per_source = 5  # Max papers to fetch per source per keyword set
     max_display_per_category = 10 # Max papers to display in markdown per keyword set
     md_file = "research_papers_digest.md"
