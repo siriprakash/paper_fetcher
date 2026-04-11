@@ -7,20 +7,8 @@ from typing import List, Dict, Any, Optional
 from bs4 import BeautifulSoup
 import re
 
-# --- Configuration ---
-# IMPORTANT: For IEEE, ACM, and Springer, direct scraping can be unreliable,
-# subject to rate limits, and against terms of service.
-# Official APIs often require API keys/subscriptions.
-# This script uses basic scraping for demonstration, which might break.
-# For production use, consider official APIs or commercial aggregators.
-
-# --- Constants ---
 ARXIV_URL = "https://arxiv.org/"
-IEEE_SEARCH_URL = "https://ieeexplore.ieee.org/search/searchresults.jsp"
-ACM_SEARCH_URL = "https://dl.acm.org/search/2.4/results.cfm" # Note: ACM's search is complex, this is a simplified approach
-SPRINGER_SEARCH_URL = "https://link.springer.com/search"
 
-# --- Helper Functions ---
 def construct_arxiv_query(keywords: List[str]) -> str:
     """Constructs a search query string for the arXiv API."""
     # Example: 'cat:cs.CL AND abs:"natural language processing"'
@@ -28,8 +16,7 @@ def construct_arxiv_query(keywords: List[str]) -> str:
     formatted_keywords = [f'abs:"{k}"' for k in keywords]
     return " AND ".join(formatted_keywords)
 
-def fetch_arxiv_papers(query: str, max_results: int = 10) -> List[Dict[str, Any]]:
-    """Fetches papers from arXiv based on the search query."""
+def fetch_arxiv_papers(query: str, max_results: int = 300) -> List[Dict[str, Any]]:
     client = arxiv.Client()
     search = arxiv.Search(
         query=query,
@@ -51,161 +38,9 @@ def fetch_arxiv_papers(query: str, max_results: int = 10) -> List[Dict[str, Any]
         })
     return papers
 
-def fetch_ieee_papers(keywords: List[str], max_results: int = 10) -> List[Dict[str, Any]]:
-    """
-    Fetches papers from IEEE Xplore.
-    Note: This uses basic scraping and might be unstable or blocked.
-    For robust access, an IEEE API key is recommended.
-    """
-    search_term = " ".join(keywords)
-    params = {
-        "queryText": search_term,
-        "rowsPerPage": max_results,
-        "highlight": "true",
-        "returnType": "SEARCH"
-    }
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
-    papers = []
-    try:
-        response = requests.get(IEEE_SEARCH_URL, params=params, headers=headers, timeout=10)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        # IEEE's HTML structure can change. This is a best-effort attempt.
-        # Look for search results, typically in a list or grid.
-        # This example looks for common patterns, adjust as needed.
-        for item in soup.find_all('div', class_='List-results-items'): # Common class for results
-            title_tag = item.find('h2', class_='document-title')
-            link_tag = item.find('a', href=True)
-            abstract_tag = item.find('div', class_='description')
-            date_tag = item.find('div', class_='publication-year') # Or similar
-
-            if title_tag and link_tag:
-                title = title_tag.get_text(strip=True)
-                url = "https://ieeexplore.ieee.org" + link_tag['href']
-                summary = abstract_tag.get_text(strip=True) if abstract_tag else "N/A"
-                published = date_tag.get_text(strip=True) if date_tag else "N/A"
-                papers.append({
-                    "id": url.split('/')[-1],
-                    "title": title,
-                    "summary": summary,
-                    "published": published,
-                    "url": url,
-                    "authors": [], # Hard to parse reliably without more specific selectors
-                    "source": "IEEE Xplore"
-                })
-                if len(papers) >= max_results:
-                    break
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching from IEEE Xplore: {e}")
-    except Exception as e:
-        print(f"Error parsing IEEE Xplore results: {e}")
-    return papers
-
-def fetch_acm_papers(keywords: List[str], max_results: int = 10) -> List[Dict[str, Any]]:
-    """
-    Fetches papers from ACM Digital Library.
-    Note: This uses basic scraping and might be unstable or blocked.
-    ACM's search interface is complex; this is a simplified approach.
-    """
-    search_term = " ".join(keywords)
-    params = {
-        "query": search_term,
-        "start": 0, # Start index for results
-        "pageSize": max_results
-    }
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
-    papers = []
-    try:
-        response = requests.get(ACM_SEARCH_URL, params=params, headers=headers, timeout=10)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        # ACM's HTML structure is also dynamic. This is a best-effort.
-        for item in soup.find_all('div', class_='issue-item'): # Common class for results
-            title_tag = item.find('a', class_='issue-item__title')
-            link_tag = title_tag # The title itself is the link
-            authors_tag = item.find('div', class_='issue-item__authors')
-            date_tag = item.find('span', class_='issue-item__date')
-
-            if title_tag and link_tag:
-                title = title_tag.get_text(strip=True)
-                url = "https://dl.acm.org" + link_tag['href']
-                authors = [a.get_text(strip=True) for a in authors_tag.find_all('a')] if authors_tag else []
-                published = date_tag.get_text(strip=True) if date_tag else "N/A"
-                papers.append({
-                    "id": url.split('/')[-1],
-                    "title": title,
-                    "summary": "N/A", # ACM often requires clicking through for abstract
-                    "published": published,
-                    "url": url,
-                    "authors": authors,
-                    "source": "ACM Digital Library"
-                })
-                if len(papers) >= max_results:
-                    break
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching from ACM Digital Library: {e}")
-    except Exception as e:
-        print(f"Error parsing ACM Digital Library results: {e}")
-    return papers
-
-def fetch_springer_papers(keywords: List[str], max_results: int = 10) -> List[Dict[str, Any]]:
-    """
-    Fetches papers from SpringerLink.
-    Note: This uses basic scraping and might be unstable or blocked.
-    """
-    search_term = " ".join(keywords)
-    params = {
-        "query": search_term,
-        "facet-start-year": datetime.date.today().year - 5, # Limit to recent years
-        "facet-end-year": datetime.date.today().year,
-        "page": 1,
-        "per_page": max_results
-    }
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
-    papers = []
-    try:
-        response = requests.get(SPRINGER_SEARCH_URL, params=params, headers=headers, timeout=10)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        for item in soup.find_all('li', class_='c-results-list__item'):
-            title_tag = item.find('a', class_='c-card__link')
-            link_tag = title_tag
-            authors_tag = item.find('span', class_='c-author-list')
-            date_tag = item.find('time')
-
-            if title_tag and link_tag:
-                title = title_tag.get_text(strip=True)
-                url = "https://link.springer.com" + link_tag['href']
-                authors = [a.get_text(strip=True) for a in authors_tag.find_all('a')] if authors_tag else []
-                published = date_tag['datetime'] if date_tag and 'datetime' in date_tag.attrs else "N/A"
-                papers.append({
-                    "id": url.split('/')[-1],
-                    "title": title,
-                    "summary": "N/A", # Springer often requires clicking through for abstract
-                    "published": published,
-                    "url": url,
-                    "authors": authors,
-                    "source": "SpringerLink"
-                })
-                if len(papers) >= max_results:
-                    break
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching from SpringerLink: {e}")
-    except Exception as e:
-        print(f"Error parsing SpringerLink results: {e}")
-    return papers
 
 def get_papers_for_keywords(
-    keyword_sets: List[List[str]], max_results_per_source: int = 5
+    keyword_sets: List[List[str]], max_results_per_source: int = 300
 ) -> Dict[str, List[Dict[str, Any]]]:
     """
     Fetches papers for each keyword set from all specified sources.
@@ -222,24 +57,6 @@ def get_papers_for_keywords(
         combined_papers.extend(arxiv_papers)
         print(f"  Found {len(arxiv_papers)} papers from arXiv.")
         time.sleep(0.5) # Be polite to APIs
-
-        # Fetch from IEEE Xplore (Scraping - prone to issues)
-        ieee_papers = fetch_ieee_papers(keywords, max_results_per_source)
-        combined_papers.extend(ieee_papers)
-        print(f"  Found {len(ieee_papers)} papers from IEEE Xplore.")
-        time.sleep(1) # Be polite to websites
-
-        # Fetch from ACM Digital Library (Scraping - prone to issues)
-        acm_papers = fetch_acm_papers(keywords, max_results_per_source)
-        combined_papers.extend(acm_papers)
-        print(f"  Found {len(acm_papers)} papers from ACM Digital Library.")
-        time.sleep(1) # Be polite to websites
-
-        # Fetch from SpringerLink (Scraping - prone to issues)
-        springer_papers = fetch_springer_papers(keywords, max_results_per_source)
-        combined_papers.extend(springer_papers)
-        print(f"  Found {len(springer_papers)} papers from SpringerLink.")
-        time.sleep(1) # Be polite to websites
 
         # Sort combined papers by published date (most recent first)
         combined_papers.sort(
