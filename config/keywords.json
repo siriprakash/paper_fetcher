@@ -1,7 +1,6 @@
 {
   "keyword_sets": [
-    ["5G", "network slicing"],
-    ["AI", "edge computing", "federated learning"],
-    ["quantum computing", "cryptography"]
+    ["large language models", "vulnerability detection"],
+    ["AI", "vulnerability detection"]
   ]
 }
