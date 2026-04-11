@@ -1,6 +1,9 @@
 {
   "keyword_sets": [
     ["large language models", "vulnerability detection"],
-    ["AI", "vulnerability detection"]
+    ["ai", "vulnerability detection"],
+    ["ai", "operating system"],
+    ["large language models", "fault isolation"],
+    ["large language models", "fault detection"]
   ]
 }
