@@ -26,12 +26,14 @@ jobs:
     - name: Run paper fetching script
       run: python fetch_papers.py
 
-    - name: Commit and push changes
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        git add research_papers_digest.md
-        git commit -m "Update daily research paper digest" || echo "No changes to commit"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Automatically provided by GitHub Actions
+
+    - name: Push new research_papers_digest.md
+      uses: github-actions-x/commit@v2.9
+      with:
+          github-token: ${{ secrets.ACCESS_TOKEN }}
+          commit-message: "Github Action Automatic Update research_papers_digest"
+          files: research_papers_digest.md
+          rebase: 'true'
+          name: 'github-actions[bot]'
+          email: 'github-actions[bot]@users.noreply.github.com'
+
