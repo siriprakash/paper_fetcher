@@ -99,8 +99,8 @@ def write_markdown(
             f.write("\n")
 
 def main() -> None:
-    max_results_per_source = 5  # Max papers to fetch per source per keyword set
-    max_display_per_category = 10 # Max papers to display in markdown per keyword set
+    max_results_per_source = 300  # Max papers to fetch per source per keyword set
+    max_display_per_category = 300 # Max papers to display in markdown per keyword set
     md_file = "research_papers_digest.md"
     config_file = "config/keywords.json"
 
