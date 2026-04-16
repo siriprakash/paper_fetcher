@@ -311,6 +311,6 @@ This document summarizes recent research papers based on your specified keywords
 | Fast Fourier Transform evaluation of the Fresnel integral for gravitational-wave lensing | Nino Ephremidze, Marc Kamionkowski, Cora Dvorkin | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12333v1) |
 | Dynamical Tidal response of compact stars -- An EFT approach | Gregory Jarequi, Soumodeep Mitra, Varun Vaidya | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12331v1) |
 | All-electron dark matter-electron scattering with random-phase approximation dielectric screening and local field effects | Cyrus Dreyer, Rouven Essig, Marivi Fernandez-Serra, Megan Hott, Aman Singal | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12326v1) |
-| Simulating AGN wind feedback with variable feedback efficiencies in idealised disc galaxies | Jinning Liang, Cedric G. Lacey, Filip Huško, Evgenii Chaikin, Sownak Bose | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12322v1) |
 | Phenomenology of an Open Effective Field Theory of Dark Energy | Santiago Agüí Salcedo, Thomas Colas, Lennard Dufner, Enrico Pajer | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12321v1) |
+| Simulating AGN wind feedback with variable feedback efficiencies in idealised disc galaxies | Jinning Liang, Cedric G. Lacey, Filip Huško, Evgenii Chaikin, Sownak Bose | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12322v1) |
 
