@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.04.16
+# Research Paper Digest - 2026.04.18
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -13,9 +13,22 @@ This document summarizes recent research papers based on your specified keywords
 
 | Title | Authors | Source | Published | Link |
 | --- | --- | --- | --- | --- |
+| Echoes of Global Cosmic Strings | Jeff A. Dror, Antonios Kyriazis | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.15241v1) |
+| Cosmology of Inelastic Self-Interacting Dark Matter: Linear Evolution and Observational Constraints | Xin-Chen Duan, Yue-Lin Sming Tsai, Ziwei Wang | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.15006v1) |
+| Microscopic primordial black holes as macroscopic dark matter from large extra dimensions | Giuseppe Filiberto Vitale, Gaetano Lambiase, Tanmay Kumar Poddar, Luca Visinelli | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.14871v1) |
+| Deeper analysis of Fermi-LAT unassociated 4FGL J2112.5-3043 for possible identification | Federica Giacchino, Cristina Fernández-Suárez, Miguel Á Sánchez-Conde, M. Ángeles Pérez-García, Stefano Ciprini, Dario Gasparrini | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.14794v1) |
+| Exploring non-equilibrium effects in sequential freeze-in | Shiuli Chatterjee, Andrzej Hryczuk | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.14688v1) |
+| Inflaton Regeneration via Scalar Couplings: Generic Models and the Higgs Portal | Kunio Kaneta, Tomo Takahashi, Natsumi Watanabe | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.14620v1) |
+| Entropy considerations in Many-Body Gravity and General Relativity, and the impact on cosmic inflation | S Ganesh | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14481v1) |
+| Wave-envelope dark matter beyond the monochromatic paradigm | Yechan Kim, Hye-Sung Lee | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14480v1) |
+| Expected Sensitivity of the Light Dark Matter eXperiment to Long-Lived Dark Photons and Axion-Like Particles | Torsten Akesson, Clay Barton, Charles Bell, Elizabeth Berzin, Liam Brennan, Lene Kristian Bryngemark, Lincoln Curtis, Patill Daghlian, E. Craig Dukes, Valentina Dutta, Bertrand Echenard, Ralf Ehrlich, Thomas Eichlersmith, Einar Elén, Andrew Furmanski, Majd Ghrear, Matthew Gignac, Matt Graham, Chiara Grieco, Craig Group, Hannah Herde, Christian Herwig, David G. Hitlin, Tyler Horoho, Joseph Incandela, Nathan Jay, Wesley Ketchum, Gordan Krnjaic, Oscar Lewis, Yuze Li, Jeremiah Mans, Cristina Mantilla Suarez, Sanjit Masanam, Steven Metallo, Sophie Middleton, Timothy Nelson, Rory O'Dwyer, James Oyang, Pritam Palit, Jessica Pascadlo, Emrys Peets, Luis Sarmiento Pico, Ruth Pöttgen, Chelsea Rodriguez, Lincoln Satterthwaite, Philip Schuster, Matt Solt, Lauren Tompkins, Natalia Toro, Nhan Tran, Tamas Vami, Kieran Wall, Erik Wallin, Andrew Whitbeck, Jihoon Yoo, Danyi Zhang | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14359v1) |
+| An Improved Fit for Linear Halo Bias at High Redshift | Kuan Wang, Julian B. Muñoz, L. Y. Aaron Yung | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14312v1) |
+| Cornering MeV-GeV Axions and Dark Photons with LDMX | Sarah Gaiser, Alessandro Russo, Philip Schuster | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14285v1) |
+| Cold vs. Hot Gas Accretion and Angular Momentum in FIRE Simulations: From Halo to Galaxy Scales | Imran Sultan, Claude-André Faucher-Giguère, Jonathan Stern, Guochao Sun | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14273v1) |
 | Search for CBCs with SSM Components in Data from The First Part of LVK Fourth Observing Run | Ines Bentara | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14095v1) |
 | Gravitational emissions and light curves of quasi-periodic orbits in Schwarzschild spacetime embedded in a Dehnen-type dark matter halo | Shijie Tan, Chunhua Jiang, Dan Li, Shiyang Hu, Chen Deng, Wenbin Lin | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.13832v1) |
-| The DECam MAGIC Survey: Investigating the Jet Stellar Stream with Photometric Metallicities | H Q. Do, A. Chiti, P. S. Ferguson, A. P. Ji, G. Limberg, K. Atzberger, J. Carlin, W. Cerny, A. Drlica-Wagner, G. F. Lewis, T. S. Li, S. L. Martell, G. E. Medina, N. E. D. Noel, A. B. Pace, V. Placco, A. H. Riley, D. J. Sand, G. S. Stringfellow, J. A. Carballo-Bello, D. Erkal, S. E. Koposov, B. Mutlu-Pakdil, M. Navabi, N. Shipp, A. K. Vivas, A. Zenteno, D. Zucker | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.13374v1) |
+| Cosmology from Transactional Entropic Gravity: A Concise Review | R. E. Kastner, Andreas Schlatter | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14239v1) |
+| The DECam MAGIC Survey: Investigating the Jet Stellar Stream with Photometric Metallicities | H. Q. Do, A. Chiti, P. S. Ferguson, A. P. Ji, G. Limberg, K. R. Atzberger, J. L. Carlin, W. Cerny, A. Drlica-Wagner, G. F. Lewis, T. S. Li, C. E. Martínez-Vázquez, S. L. Martell, G. E. Medina, N. E. D. Noël, A. B. Pace, V. M. Placco, A. H. Riley, D. J. Sand, G. S. Stringfellow, J. A. Carballo-Bello, L. R. Cullinane, D. Erkal, S. E. Koposov, B. Mutlu-Pakdil, M. Navabi, N. Shipp, A. K. Vivas, A. Zenteno, D. Zucker | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.13374v2) |
 | Searching for axions with quantum interferometry | Tanmay Kumar Poddar, Michael Spannowsky | arXiv | 2026-04-14 | [Link](http://arxiv.org/abs/2604.13181v1) |
 | Revisiting the angular size-redshift cosmological test with milliarcsecond radio structures in active galactic nuclei | Mina Ghodsi Yengejeh, Tatiana A. Koryukova, Leonid I. Gurvits, Sándor Frey, Alexander B. Pushkarev, Alexander V. Plavin, Kenneth I. Kellermann, András Kovács | arXiv | 2026-04-14 | [Link](http://arxiv.org/abs/2604.12936v1) |
 | Infrared Spectral Gap in a Gluonic Dark Sector as the Origin of the Galactic Acceleration Scale | Gilles Cohen-Tannoudji, Jean-Pierre Gazeau, Hamed Pejhan, Jean-Pierre Treuil | arXiv | 2026-04-14 | [Link](http://arxiv.org/abs/2604.12910v1) |
@@ -37,7 +50,7 @@ This document summarizes recent research papers based on your specified keywords
 | Charged Black Holes in KR-gravity Surrounded by Perfect Fluid Dark Matter | Faizuddin Ahmed, Mohsen Fathi, Edilberto O. Silva | arXiv | 2026-04-13 | [Link](http://arxiv.org/abs/2604.11357v1) |
 | Dirac one-loop seesaw in a non-invertible fusion rule | Hiroshi Okada, Labh Singh | arXiv | 2026-04-13 | [Link](http://arxiv.org/abs/2604.11308v1) |
 | A consistent MOND modelling of the Bullet Cluster | X. Hernandez | arXiv | 2026-04-12 | [Link](http://arxiv.org/abs/2604.10811v1) |
-| Reionization Topology as a Probe of Self-Interacting Dark Matter | Zihan Wang | arXiv | 2026-04-12 | [Link](http://arxiv.org/abs/2604.10726v1) |
+| Reionization Topology as a Probe of Self-Interacting Dark Matter | Zihan Wang | arXiv | 2026-04-12 | [Link](http://arxiv.org/abs/2604.10726v2) |
 | Search for dark sector and rare decays at BESIII | Zhi-Jun Li, Zheng-Yun You | arXiv | 2026-04-12 | [Link](http://arxiv.org/abs/2604.10405v1) |
 | DREAMuS: Dark matter REsearch with Advanced Muon Source | Xiang Chen, Zejia Lu, Liangwen Chen, Jun Gao, Shao-Feng Ge, Zhanxu Hao, Yang Hu, Bingzhi Li, Cen Mo, Zhiyu Sun, Huayang Wang, Chonghao Wu, Yu Xu, Xueheng Zhang, Yulei Zhang, Liang Li | arXiv | 2026-04-11 | [Link](http://arxiv.org/abs/2604.10257v1) |
 | Starbursts at Cosmic Dawn: Formation of Globular Clusters, Ultra-Faint Dwarfs, and Population III star clusters at z > 6 | Olof Nebrin | arXiv | 2026-04-11 | [Link](http://arxiv.org/abs/2604.10119v1) |
@@ -65,7 +78,7 @@ This document summarizes recent research papers based on your specified keywords
 | Post-Inflationary Quenched Production of Axion SU(2) Dark Matter | Imtiaz Khan, Pirzada, G. Mustafa | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07044v1) |
 | Galaxy discs regulate the growth of supermassive black holes | Ryan J. Roberts, Jonathan J. Davies, Robert A. Crain | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.06977v1) |
 | Proceedings to the 28th Workshop What Comes Beyond the Standard Models | Norma Susana Mankoč Borštnik, Holger Bech Nielsen, Maxim Yu. Khlopov, Astri Kleppe | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.08605v1) |
-| Direct-detection constraints on inelastic dark matter with a scalar mediator | I. V. Voronchikhin, D. V. Kirpichnikov | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.06929v1) |
+| Direct-detection constraints on inelastic dark matter with a scalar mediator | I. V. Voronchikhin, D. V. Kirpichnikov | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.06929v2) |
 | Galactic Rotation Curves from Full-Disk Newtonian Gravity: The Lost and Found Model | Adolfo Santa Fe Dueñas | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.06917v1) |
 | Memory-Burden Suppression of Hawking Radiation and Neutrino Constraints on Primordial Black Holes | Arnab Chaudhuri | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.06858v1) |
 | Fast and accurate noise removal by curve fitting using orthogonal polynomials | Andrea Gallo Rosso | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.06843v1) |
@@ -300,17 +313,4 @@ This document summarizes recent research papers based on your specified keywords
 | Ridged Lagrangian Perturbation Theory (RLPT) | Francisco-Shu Kitaura, Francesco Sinigaglia | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13106v2) |
 | Ultralight Dark Matter: Undergraduate Physics in Modern Cosmology | Timothy D. Wiser | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13451v1) |
 | The Migdal effect in Semiconductors for the Effective Field Theory of Dark Matter Direct Detection | Kim V. Berghaus, Rouven Essig, Megan H. McDuffie | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13052v1) |
-| Towards the Two-Loop EFTofLSS in Galaxy Lensing Surveys | Evan Saraivanov, Henrique Rubira, Vivian Miranda, Tim Eifler | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13031v1) |
-| Active-sterile neutrino mixing in the ISS(p,q) inverse seesaw models | M. N. Dubinin, E. Yu. Fedotova, D. M. Kazarkin | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.12987v1) |
-| Spectroscopical Confirmation and Lens Modeling of a Complex Strong Lensing System Produced by a Close Galaxy Pair at $z_d=0.79$ | Zizhao He, Limeng Deng, Qihang Chen, Yiping Shu, Nan Li, Di Wu | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.12790v1) |
-| Chemical Properties and Sagittarius-induced Dynamical Perturbations of the GD-1 Stream | Haoyang Liu, Cuihua Du | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.12757v1) |
-| Slowly Rotating Two-Fluid Neutron Stars: Coupled Frame-Dragging, Inertia Splitting, and Universal Relations | Ankit Kumar, Hajime Sotani | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.12613v1) |
-| Galaxy fly-bys sustain bar-halo friction and bar slowdown in disk galaxies | Rumi Kodama, Rimpei Chiba, Tetsuro Asano, Junichi Baba, Michiko Fujii | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.12584v1) |
-| Traversable Wormholes induced by Thomas-Fermi energy density | Remo Garattini, Francisco S. N. Lobo, Kirill Zatrimaylov | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12527v2) |
-| Standard Perturbation Theory for Interacting Dark Sector cosmologies I: Breakdown of Einstein de Sitter kernels | Matheus Wolney, Gabriel Sampaio, Humberto Borges, Iuri Baranov, Rodrigo von Marttens | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12431v1) |
-| Fast Fourier Transform evaluation of the Fresnel integral for gravitational-wave lensing | Nino Ephremidze, Marc Kamionkowski, Cora Dvorkin | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12333v1) |
-| Dynamical Tidal response of compact stars -- An EFT approach | Gregory Jarequi, Soumodeep Mitra, Varun Vaidya | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12331v1) |
-| All-electron dark matter-electron scattering with random-phase approximation dielectric screening and local field effects | Cyrus Dreyer, Rouven Essig, Marivi Fernandez-Serra, Megan Hott, Aman Singal | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12326v1) |
-| Phenomenology of an Open Effective Field Theory of Dark Energy | Santiago Agüí Salcedo, Thomas Colas, Lennard Dufner, Enrico Pajer | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12321v1) |
-| Simulating AGN wind feedback with variable feedback efficiencies in idealised disc galaxies | Jinning Liang, Cedric G. Lacey, Filip Huško, Evgenii Chaikin, Sownak Bose | arXiv | 2026-03-12 | [Link](http://arxiv.org/abs/2603.12322v1) |
 
