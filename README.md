@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.04.19
+# Research Paper Digest - 2026.04.20
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -13,7 +13,13 @@ This document summarizes recent research papers based on your specified keywords
 
 | Title | Authors | Source | Published | Link |
 | --- | --- | --- | --- | --- |
+| Probing Primordial Black Holes with upcoming Radio Telescopes: a case study for LOFAR2.0, FAST Core Array and BINGO | Joao R. L. Santos, Guillem Domènech, Amilcar R. Queiroz | arXiv | 2026-04-17 | [Link](http://arxiv.org/abs/2604.16154v1) |
+| Thermal effects on Dark Matter production during cosmic reheating | Marco Drewes, Yannis Georis, Mubarak A. S. Mohammed, Sebastian Zell | arXiv | 2026-04-17 | [Link](http://arxiv.org/abs/2604.16085v1) |
+| Probing inelastic sub-GeV dark matter at the DUNE near detector | Amalia Betancur, Gustavo Castrillón, Óscar Zapata | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.15541v1) |
+| On the contribution of the bow shock pulsar wind nebula PSR J0437-4715 to the observed fluxes of GeV-TeV positrons and antiprotons | A. E. Petrov, A. M. Bykov | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.15537v1) |
+| The $Z_3$ soft breaking in the I(2+1)HDM and its cosmological probes | M. A. Arroyo-Ureña, J. Hernández-Sánchez, C. G. Honorato, S. Moretti, T. Shindou | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.15425v1) |
 | Echoes of Global Cosmic Strings | Jeff A. Dror, Antonios Kyriazis | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.15241v1) |
+| The Metric Fossil: Emergent Spacetime from Asymmetric Projection | Jonathon Sendall | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.15404v1) |
 | Cosmology of Inelastic Self-Interacting Dark Matter: Linear Evolution and Observational Constraints | Xin-Chen Duan, Yue-Lin Sming Tsai, Ziwei Wang | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.15006v1) |
 | Microscopic primordial black holes as macroscopic dark matter from large extra dimensions | Giuseppe Filiberto Vitale, Gaetano Lambiase, Tanmay Kumar Poddar, Luca Visinelli | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.14871v1) |
 | Deeper analysis of Fermi-LAT unassociated 4FGL J2112.5-3043 for possible identification | Federica Giacchino, Cristina Fernández-Suárez, Miguel Á Sánchez-Conde, M. Ángeles Pérez-García, Stefano Ciprini, Dario Gasparrini | arXiv | 2026-04-16 | [Link](http://arxiv.org/abs/2604.14794v1) |
@@ -64,7 +70,7 @@ This document summarizes recent research papers based on your specified keywords
 | Probing High-Quality Axions with Gravitational Waves | Ruiyu Zhou, Jin-Wei Wang, Ligong Bian | arXiv | 2026-04-10 | [Link](http://arxiv.org/abs/2604.09081v1) |
 | How well can the QCD axion hide? | Sung Mook Lee, Maria Ramos, Fuensanta Vilches | arXiv | 2026-04-09 | [Link](http://arxiv.org/abs/2604.08657v1) |
 | Bypassed Core Formation in Milky Way-Mass SIDM Halos: Implications for the Local Group Past-Pericenter Scenario | Zhichao Carton Zeng, Odelia V. Hartl, Louis E. Strigari, Annika H. G. Peter, Xiaolong Du, Charlie Mace, Andrew Benson | arXiv | 2026-04-09 | [Link](http://arxiv.org/abs/2604.08647v1) |
-| Coupled Dark Energy and Dark Matter for DESI: An Effective Guide to the Phantom Divide | Stefan Antusch, Stephen F. King, Xin Wang | arXiv | 2026-04-09 | [Link](http://arxiv.org/abs/2604.08449v1) |
+| Coupled Dark Energy and Dark Matter for DESI: An Effective Guide to the Phantom Divide | Stefan Antusch, Stephen F. King, Xin Wang | arXiv | 2026-04-09 | [Link](http://arxiv.org/abs/2604.08449v2) |
 | Toward Neutrino and Dark Matter Detection with Ancient Minerals: TEM Study of Heavy-Ion Tracks in Olivine | Andrew Calabrese-Day, Emilie LaVoie-Ingram, Kathryn Ream, Hannah Ross, Joshua Spitz, Patrick Stengel, Kai Sun, Alexander Takla | arXiv | 2026-04-09 | [Link](http://arxiv.org/abs/2604.09732v1) |
 | Probing Majoron Dark Matter with Gravitational Wave Detectors | Ippei Obata, Tsutomu T. Yanagida | arXiv | 2026-04-09 | [Link](http://arxiv.org/abs/2604.08193v1) |
 | Constraining Ultralight Scalar Dark Matter in the Galactic Center with the S2 Orbit | Jiang-Chuan Yu, Yan Cao, Lijing Shao | arXiv | 2026-04-09 | [Link](http://arxiv.org/abs/2604.08053v1) |
@@ -73,7 +79,7 @@ This document summarizes recent research papers based on your specified keywords
 | The assembly and fate of a giant disc galaxy in a protocluster at $z = 3$ | Francesca Rizzo, Pavel E. Mancera Piña, Gabriele Pezzulli, Giulia Despali | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07440v1) |
 | LSST Strong Lensing Systems Dark Matter Sensitivity Analysis with Neural Ratio Estimators | Andreas Filipp, Yashar Hezaveh, Laurence Perreault-Levasseur, Daniel Gilman, LSST Dark Energy Science Collaboration | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07438v1) |
 | Primordial magnetic fields in the light of upcoming post-EoR Lyman-$α$ and 21-cm observations | Arko Bhaumik, Sourav Pal, Supratik Pal | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07327v1) |
-| Analytic Approximations for Fermionic Preheating | Heather E. Logan, Daniel Stolarski, Fazlul Yasin | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07326v1) |
+| Analytic Approximations for Fermionic Preheating | Heather E. Logan, Daniel Stolarski, Fazlul Yasin | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07326v2) |
 | Constraining magnetic monopoles and multiply charged particles with diphoton events at the LHC | Vasiliki A. Mitsou, Emanuela Musumeci | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07300v1) |
 | Post-Inflationary Quenched Production of Axion SU(2) Dark Matter | Imtiaz Khan, Pirzada, G. Mustafa | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.07044v1) |
 | Galaxy discs regulate the growth of supermassive black holes | Ryan J. Roberts, Jonathan J. Davies, Robert A. Crain | arXiv | 2026-04-08 | [Link](http://arxiv.org/abs/2604.06977v1) |
@@ -192,7 +198,7 @@ This document summarizes recent research papers based on your specified keywords
 | PySiPMGUI: A Universal Python-Based Software for Photodetector I-V Quality Assurance: From Underground Dark Matter Searches to Astroparticle Cherenkov Cameras | Tanay Dey, Suraj Shaw, Ritabrata Banerjee, Pratik Majumdar, Satyaki Bhattacharya | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24781v2) |
 | Primordial black hole formation from transient $f(T)$ cosmology | Gerasimos Kouniatalis, Theodoros Papanikolaou, Spyros Basilakos, Emmanuel N. Saridakis | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24759v1) |
 | Cogenesis of visible and dark matter in type-I Dirac seesaw | Debasish Borah, Partha Kumar Paul, Narendra Sahu | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24693v1) |
-| A New Method to Simulate Dark Matter-Baryon Interactions and Application to an Isolated Disk Galaxy | Connor Hainje, Glennys R. Farrar | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24688v1) |
+| A New Method to Simulate Dark Matter-Baryon Interactions and Application to an Isolated Disk Galaxy | Connor Hainje, Glennys R. Farrar | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24688v2) |
 | UV-complete and stable Quintom Dark Energy models in the light of DESI DR2 | Fotis Koutroulis | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24685v1) |
 | Probing Interacting Dark Sectors with upcoming Post-Reionization and Galaxy Surveys | Rahul Shah, Antara Dey, Purba Mukherjee, Supratik Pal | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24554v1) |
 | Multi-component Dark Matter and leptogenesis with double seesaw in an extended left-right symmetric theory | Ankita Kakoti | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24364v1) |
@@ -307,10 +313,4 @@ This document summarizes recent research papers based on your specified keywords
 | Rotation Curve of the Milky Way | Zi Liu | arXiv | 2026-03-14 | [Link](http://arxiv.org/abs/2603.14114v1) |
 | Dark Matter Search with the DEAP-3600 Detector using the Profile Likelihood Ratio Method | DEAP Collaboration, P. Adhikari, R. Ajaj, M. Alpízar-Venegas, P. -A. Amaudruz, J. Anstey, D. J. Auty, M. Baldwin, M. Batygov, B. Beltran, A. Bigentini, C. E. Bina, W. Bonivento, M. G. Boulay, J. F. Bueno, P. M. Burghardt, A. Butcher, M. Cadeddu, B. Cai, M. Cárdenas-Montes, S. Cavuoti, Y. Chen, S. Choudhary, B. T. Cleveland, R. Crampton, S. Daugherty, P. DelGobbo, P. Di Stefano, G. Dolganov, L. Doria, F. A. Duncan, M. Dunford, E. Ellingwood, A. Erlandson, S. S. Farahani, N. Fatemighomi, G. Fiorillo, R. J. Ford, D. Gahan, D. Gallacher, A. Garai, P. García Abia, S. Garg, P. Giampa, A. Giménez-Alcázar, D. Goeldi, P. Gorel, K. Graham, A. Grobov, A. L. Hallin, M. Hamstra, S. Haskins, J. Hu, J. Hucker, D. Huff, T. Hugues, A. Ilyasov, B. Jigmeddorj, C. J. Jillings, A. Joy, G. Kaur, A. Kemp, M. Khoshraftar Yazdi, M. Kuźniak, F. La Zia, M. Lai, S. Langrock, B. Lehnert, J. LePage-Bourbonnais, M. Lissia, L. Luzzi, I. Machulin, P. Majewski, A. Maru, J. Mason, A. B. McDonald, T. McElroy, J. B. McLaughlin, C. Mielnichuk, L. Mirasola, A. Moharana, J. Monroe, A. Murray, M. Needs, C. Ng, G. Oliviéro, M. Olszewski, S. Pal, D. Papi, B. Park, M. Perry, V. Pesudo, T. R. Pollmann, F. Rad, C. Rethmeier, F. Retière, I. Rodríguez García, L. Roszkowski, R. Santorelli, F. G. Schuckman, N. Seeburn, S. Seth, V. Shalamova, P. Skensved, T. Smirnova, N. J. T. Smith, K. Sobotkiewich, T. Sonley, J. Sosiak, J. Soukup, R. Stainforth, M. Stringer, J. Tang, P. Taylor, R. Turcotte-Tardif, E. Vázquez-Jáuregui, G. Vera Díaz, S. Viel, B. Vyas, M. Walczak, J. Walding, M. Ward, S. Westerdale, R. Wormington, A. Zuñiga-Reyes | arXiv | 2026-03-14 | [Link](http://arxiv.org/abs/2603.13965v1) |
 | Pulsar timing arrays: the emerging gravitational-wave landscape | C. M. F. Mingarelli, J. A. Casey-Clyde, Y. T. Chang, E. Eisenberg, F. Hutchison, N. Khusid, B. Larsen, A. Moran, F. Semenzato, L. Willson, Q. Zheng | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13643v2) |
-| Projected Sensitivity of Paleo-Detectors to Dark Matter Effective Interactions with Nuclei | Dionysios P. Theodosopoulos, Katherine Freese, Chris Kelso, Patrick Stengel | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13629v1) |
-| Implications of a contracted dark matter halo for the Milky Way's inferred virial mass | Diego Dado, Shaun T. Brown, Azadeh Fattahi, Andreea S. Font, Ian G. McCarthy | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13516v1) |
-| Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4~GHz | Utkarsh Bhura, David J. E. Marsh, Bradley R. Johnson, Karl van Bibber, Mallory Helfenbein, Bradley J. Kavanagh, Matthew Nelson, Ciaran A. J. O'Hare, Giovanni Pierobon, Gray Rybka, Luca Visinelli | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13194v1) |
-| Ridged Lagrangian Perturbation Theory (RLPT) | Francisco-Shu Kitaura, Francesco Sinigaglia | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13106v2) |
-| Ultralight Dark Matter: Undergraduate Physics in Modern Cosmology | Timothy D. Wiser | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13451v1) |
-| The Migdal effect in Semiconductors for the Effective Field Theory of Dark Matter Direct Detection | Kim V. Berghaus, Rouven Essig, Megan H. McDuffie | arXiv | 2026-03-13 | [Link](http://arxiv.org/abs/2603.13052v1) |
 
