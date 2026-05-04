@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.05.03
+# Research Paper Digest - 2026.05.04
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -13,6 +13,12 @@ This document summarizes recent research papers based on your specified keywords
 
 | Title | Authors | Source | Published | Link |
 | --- | --- | --- | --- | --- |
+| Anisotropy of Cosmic Background Photons from Annihilating/Decaying Dark Matter | Ryosuke Kasuya, Kazunori Nakayama | arXiv | 2026-05-01 | [Link](http://arxiv.org/abs/2605.00648v1) |
+| Bounds on massive graviton-like particles from searches for axion-like particles coupling to photons | Jordan Gué, David d'Enterria | arXiv | 2026-05-01 | [Link](http://arxiv.org/abs/2605.00549v1) |
+| Micron-sized Extra Dimensions and Primordial Black Holes: Charges, Rotating, and Memory Burdened | George K. Leontaris, George Prampromis | arXiv | 2026-04-30 | [Link](http://arxiv.org/abs/2605.00252v1) |
+| Correspondence between a decaying dark matter sector scenario and scalar field model | Gilberto Aguilar-Pérez, Deryan Alvarado, Miguel Cruz, Estefany Ruíz-Ramos, Joel Saavedra | arXiv | 2026-04-30 | [Link](http://arxiv.org/abs/2605.00208v1) |
+| Pre-inflationary QCD axion stars after moduli domination | Edward Hardy, Noelia Sánchez González, Henry Stubbs, Lorenzo Tranchedone | arXiv | 2026-04-30 | [Link](http://arxiv.org/abs/2605.00103v1) |
+| A New Robust Constraint on the Self-interaction Cross-section of Dark Matter with Double Radio Relic Clusters | M. James Jee, Dongak Park, Wonki Lee | arXiv | 2026-04-30 | [Link](http://arxiv.org/abs/2605.00093v1) |
 | Dark photon search status in $τ-c$ energy region | Zhijun Li, Zhengyun You | arXiv | 2026-04-30 | [Link](http://arxiv.org/abs/2604.27703v1) |
 | Primordial black hole dark matter from axion inflation | Gabriele Franciolini, Nadir Ijaz, Marco Peloso | arXiv | 2026-04-30 | [Link](http://arxiv.org/abs/2604.27496v1) |
 | Extended Universal Rotational Curve of Spiral Galaxies | Esha Bhatia, Paolo Salucci, Tiziano Schiavone, Sandeep Haridasu | arXiv | 2026-04-30 | [Link](http://arxiv.org/abs/2604.27320v1) |
@@ -307,10 +313,4 @@ This document summarizes recent research papers based on your specified keywords
 | Probing Interacting Dark Sectors with upcoming Post-Reionization and Galaxy Surveys | Rahul Shah, Antara Dey, Purba Mukherjee, Supratik Pal | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24554v1) |
 | Multi-component Dark Matter and leptogenesis with double seesaw in an extended left-right symmetric theory | Ankita Kakoti | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24364v1) |
 | Lyman-$α$ Forest Constraint on Dark Matter from Dark Sector Decay | Si-Yuan Zhao, Yi-Cheng Dai, Wei Liao, Yi-Song Lu | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24331v2) |
-| Two-component dark matter from a flavor-dependent $U(1)$ gauge extension | N. T. Duy, Duy H. Nguyen, Do Thi Ha, Duong Van Loi | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24072v1) |
-| Imprints of tidal interactions on the stellar distribution of satellite galaxies: implications for dark matter deficient galaxies | Zhihao Yin, Go Ogiya, Frank C. van den Bosch | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.24020v1) |
-| A Long Stellar Stream in M83: Possible Connection Between XUV Disks and Minor Mergers? | Itsuki Ogami, Sakurako Okamoto, Annette M. N. Ferguson, Yutaka Komiyama, Masashi Chiba, Jin Koda, Kohei Hayashi, Yoshihisa Suzuki | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.23981v1) |
-| Energy Balance of a Boson Gas at Zero Temperature in Curved Spacetime | Jorge Meza-Domínguez, Tonatiuh Matos, Pierre-Henri Chavanis | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.23931v1) |
-| The read-out electronics for the FLASH experiment | Luigi Calligaris, Claudio Puglia, Gianluca Lamanna | arXiv | 2026-03-25 | [Link](http://arxiv.org/abs/2603.23846v2) |
-| II- A hydrodynamical CLONE of the Virgo cluster to confront observed and synthetic galaxy population twins in a dense environment | Jenny G. Sorce, Sean L. McGee, Yohan Dubois, Jérémy Blaizot, Alexander Knebe, Gustavo Yepes | arXiv | 2026-03-24 | [Link](http://arxiv.org/abs/2603.23606v1) |
 
