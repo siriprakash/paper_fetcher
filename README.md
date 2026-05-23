@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.05.21
+# Research Paper Digest - 2026.05.23
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -13,6 +13,15 @@ This document summarizes recent research papers based on your specified keywords
 
 | Title | Authors | Source | Published | Link |
 | --- | --- | --- | --- | --- |
+| Dwarf Galaxy Constraints on Interacting Fermionic Dark Matter | Bihag Dave, Raghuveer Garani | arXiv | 2026-05-21 | [Link](http://arxiv.org/abs/2605.22685v1) |
+| Emergent Neutrino Texture Geometry from Dark Matter and Lepton Flavor Violation in the Scotogenic Model | Avinanda Chaudhuri | arXiv | 2026-05-21 | [Link](http://arxiv.org/abs/2605.22656v1) |
+| Black hole dark monopole system | Marek Rogatko | arXiv | 2026-05-21 | [Link](http://arxiv.org/abs/2605.22495v1) |
+| Machine Learning Techniques for Astrophysics and Cosmology: Lyman-$α$ forest | Jonás Chaves-Montero | arXiv | 2026-05-21 | [Link](http://arxiv.org/abs/2605.22489v1) |
+| Pseudo-Nambu-Goldstone inflation with $Z_N$ symmetric waterfall fields | Hyun Min Lee, Adriana G. Menkara | arXiv | 2026-05-21 | [Link](http://arxiv.org/abs/2605.22464v1) |
+| Probing freeze-in dark matter using Bose-Einstein condensate in neutron star | Deep Ghosh, Anirban Das | arXiv | 2026-05-21 | [Link](http://arxiv.org/abs/2605.22245v1) |
+| Constraints on Schwarzschild Black Hole in a Generalized Dehnen-Type $(1,4,γ)$ Dark Matter Halo via the S2 Star Orbit around Sgr A$^\star$ | Tursunali Xamidov, Sanjar Shaymatov, Qiang Wu | arXiv | 2026-05-21 | [Link](http://arxiv.org/abs/2605.22210v1) |
+| Holographic Dark Energy with Hubble Radius as an Infrared Cutoff in Einstein-Cartan Gravity | Yongjun Yun, Jungjai Lee | arXiv | 2026-05-21 | [Link](http://arxiv.org/abs/2605.22143v1) |
+| Astrophysical Objects in Modified Theories of Gravity | Sneha Pradhan | arXiv | 2026-05-20 | [Link](http://arxiv.org/abs/2605.21564v1) |
 | Detection of a dark matter subhalo in the strongly lensed system PJ011646 | Aristeidis Amvrosiadis, James W. Nightingale, Qiuhan He, Andrew Robertson, Shaun Cole, Carlos S. Frenk, Samuel Lange, Richard Massey, Maximilian von Wietersheim-Kramsta, Xiaoyue Cao, Ran Li, Shubo Li, Kaihao Wang, Xianghao Ma, Leo W. H. Fung | arXiv | 2026-05-20 | [Link](http://arxiv.org/abs/2605.21212v1) |
 | Audible Axion Magnetogenesis: Linking Intergalactic Magnetic Fields and Gravitational Waves | Christopher Gerlach, Daniel Schmitt, Pedro Schwaller | arXiv | 2026-05-20 | [Link](http://arxiv.org/abs/2605.21092v1) |
 | Post-Newtonian orbital mechanics around a black hole in modified gravity | Ioannis Liodis, Gernot Heissel, Rita Mastroioanni, Jai Grover, Dario Izzo | arXiv | 2026-05-20 | [Link](http://arxiv.org/abs/2605.20574v1) |
@@ -54,7 +63,7 @@ This document summarizes recent research papers based on your specified keywords
 | Study of dark interactions through strong gravitational lenses | F. Villalobos, J. Magana, T. Verdugo | arXiv | 2026-05-15 | [Link](http://arxiv.org/abs/2605.16155v1) |
 | Freeze-in Warm Dark Matter via Dimension-6 Operators in 3-3-1 Models | Fuwei Liu, Fujun Liu | arXiv | 2026-05-15 | [Link](http://arxiv.org/abs/2605.16465v1) |
 | A Near-Cutoff Waveguide Haloscope for sub-meV Dark Matter | Chuan-Yang Xing, Bin Zhu | arXiv | 2026-05-15 | [Link](http://arxiv.org/abs/2605.15820v1) |
-| Baryon and lepton asymmetry of the Universe in the left-right weak interaction model | A. P. Serebrov, O. M. Zherebtsov, A. K. Fomin, R. M. Samoilov, N. S. Budanov | arXiv | 2026-05-15 | [Link](http://arxiv.org/abs/2605.15771v1) |
+| Baryon and lepton asymmetry of the Universe in the left-right asymmetry model of weak interaction | A. P. Serebrov, O. M. Zherebtsov, A. K. Fomin, R. M. Samoilov, N. S. Budanov | arXiv | 2026-05-15 | [Link](http://arxiv.org/abs/2605.15771v2) |
 | Warm, not Fuzzy: Generalized Ultralight Dark Matter Limits from Milky Way Satellites | Ethan O. Nadler, Mustafa A. Amin, Risa H. Wechsler, M. Sten Delos, Andrew Benson, Vera Gluscevic | arXiv | 2026-05-14 | [Link](http://arxiv.org/abs/2605.15371v1) |
 | A metric solution for rotating black holes embedded in dark matter halos with central spikes | Rui-Hong Yue, Yu-Qian Zhao, Wei-Liang Qian | arXiv | 2026-05-14 | [Link](http://arxiv.org/abs/2605.15330v1) |
 | Interactions of exotic neutralino dark matter with nucleons in $U(1)$ extensions of the MSSM originating from $E_6$ GUTs | M. G. Belyakova, R. B. Nevzorov | arXiv | 2026-05-14 | [Link](http://arxiv.org/abs/2605.15316v1) |
@@ -109,7 +118,7 @@ This document summarizes recent research papers based on your specified keywords
 | Electronic Direct Detection of Light Dark Matter with Intermediate-Mass Mediators | Connor Stratman, Tanner Trickle | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.11063v1) |
 | Milky Way Dynamics Favor Dark Matter over Modified Gravity Models | Zheng-long Wang, Yue-Lin Sming Tsai, Lan Zhang, Yin Wu, Haining Li, Xiang-Xiang Xue, Hongsheng Zhao, Yi-Zhong Fan | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.10857v1) |
 | Distinguishing Higgs portal and neutralino dark matter via vector boson fusion | Amit Chakraborty, Tathagata Ghosh, Rafiqul Rahaman | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.10699v1) |
-| Effective Field Theory for a Baryon-Correlated Dark Matter Profile | Kento Kamada | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.20217v1) |
+| Effective Field Theory for a Baryon-Correlated Dark Matter Profile | Kento Kamada | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.20217v2) |
 | Breaking Free from the Swampland of Impossible Universes through the DESI Portal | Luis A. Anchordoqui, Dieter Lust | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.10476v1) |
 | Axial Quasi-normal Modes of Admixed Neutron Stars | Hamza Boumaza, Boris Betancourt Kamenetskaia | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.10467v1) |
 | Search for invisible decays of light mesons via $J/ψ\to VP$ $(V=ω/φ,P=η/η')$ decays at STCF | Zhibo Tao, Yihang Xia, Vindhyawasini Prasad, Xu Gao, Weimin Song | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.10023v1) |
@@ -304,13 +313,4 @@ This document summarizes recent research papers based on your specified keywords
 | Entropy considerations in Many-Body Gravity and General Relativity, and the impact on cosmic inflation | S Ganesh | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14481v1) |
 | Wave-envelope dark matter beyond the monochromatic paradigm | Yechan Kim, Hye-Sung Lee | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14480v1) |
 | Expected Sensitivity of the Light Dark Matter eXperiment to Long-Lived Dark Photons and Axion-Like Particles | Torsten Akesson, Clay Barton, Charles Bell, Elizabeth Berzin, Liam Brennan, Lene Kristian Bryngemark, Lincoln Curtis, Patill Daghlian, E. Craig Dukes, Valentina Dutta, Bertrand Echenard, Ralf Ehrlich, Thomas Eichlersmith, Einar Elén, Andrew Furmanski, Majd Ghrear, Matthew Gignac, Matt Graham, Chiara Grieco, Craig Group, Hannah Herde, Christian Herwig, David G. Hitlin, Tyler Horoho, Joseph Incandela, Nathan Jay, Wesley Ketchum, Gordan Krnjaic, Oscar Lewis, Yuze Li, Jeremiah Mans, Cristina Mantilla Suarez, Sanjit Masanam, Steven Metallo, Sophie Middleton, Timothy Nelson, Rory O'Dwyer, James Oyang, Pritam Palit, Jessica Pascadlo, Emrys Peets, Luis Sarmiento Pico, Ruth Pöttgen, Chelsea Rodriguez, Lincoln Satterthwaite, Philip Schuster, Matt Solt, Lauren Tompkins, Natalia Toro, Nhan Tran, Tamas Vami, Kieran Wall, Erik Wallin, Andrew Whitbeck, Jihoon Yoo, Danyi Zhang | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14359v1) |
-| An Improved Fit for Linear Halo Bias at High Redshift | Kuan Wang, Julian B. Muñoz, L. Y. Aaron Yung | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14312v1) |
-| Cornering MeV-GeV Axions and Dark Photons with LDMX | Sarah Gaiser, Alessandro Russo, Philip Schuster | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14285v1) |
-| Cold vs. Hot Gas Accretion and Angular Momentum in FIRE Simulations: From Halo to Galaxy Scales | Imran Sultan, Claude-André Faucher-Giguère, Jonathan Stern, Guochao Sun | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14273v1) |
-| Search for CBCs with SSM Components in Data from The First Part of LVK Fourth Observing Run | Ines Bentara | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14095v1) |
-| Gravitational emissions and light curves of quasi-periodic orbits in Schwarzschild spacetime embedded in a Dehnen-type dark matter halo | Shijie Tan, Chunhua Jiang, Dan Li, Shiyang Hu, Chen Deng, Wenbin Lin | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.13832v1) |
-| Cosmology from Transactional Entropic Gravity: A Concise Review | R. E. Kastner, Andreas Schlatter | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.14239v1) |
-| The DECam MAGIC Survey: Investigating the Jet Stellar Stream with Photometric Metallicities | H. Q. Do, A. Chiti, P. S. Ferguson, A. P. Ji, G. Limberg, K. R. Atzberger, J. L. Carlin, W. Cerny, A. Drlica-Wagner, G. F. Lewis, T. S. Li, C. E. Martínez-Vázquez, S. L. Martell, G. E. Medina, N. E. D. Noël, A. B. Pace, V. M. Placco, A. H. Riley, D. J. Sand, G. S. Stringfellow, J. A. Carballo-Bello, L. R. Cullinane, D. Erkal, S. E. Koposov, B. Mutlu-Pakdil, M. Navabi, N. Shipp, A. K. Vivas, A. Zenteno, D. Zucker | arXiv | 2026-04-15 | [Link](http://arxiv.org/abs/2604.13374v2) |
-| Searching for axions with quantum interferometry | Tanmay Kumar Poddar, Michael Spannowsky | arXiv | 2026-04-14 | [Link](http://arxiv.org/abs/2604.13181v1) |
-| Revisiting the angular size-redshift cosmological test with milliarcsecond radio structures in active galactic nuclei | Mina Ghodsi Yengejeh, Tatiana A. Koryukova, Leonid I. Gurvits, Sándor Frey, Alexander B. Pushkarev, Alexander V. Plavin, Kenneth I. Kellermann, András Kovács | arXiv | 2026-04-14 | [Link](http://arxiv.org/abs/2604.12936v1) |
 
