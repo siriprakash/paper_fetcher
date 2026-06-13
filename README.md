@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.06.12
+# Research Paper Digest - 2026.06.13
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -285,8 +285,8 @@ This document summarizes recent research papers based on your specified keywords
 | New Isocurvature Constraints from JWST UV Luminosity Function | Raymond T. Co, Sai Chaitanya Tadepalli | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.11079v1) |
 | Time-dependent signals of new physics at the LHC | Max H. Fieg, Patrick J. Fox, Jinbo Zhang, Aishik Ghosh, Virat Varada, Daniel Whiteson | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.11071v1) |
 | A correlation predicting galaxies without dark matter | Michal Bílek | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.11070v1) |
-| Electronic Direct Detection of Light Dark Matter with Intermediate-Mass Mediators | Connor Stratman, Tanner Trickle | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.11063v1) |
 | Clustering constraints on super-early galaxy formation scenarios | Antonio Matteri, Andrea Pallottini, Andrea Ferrara | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.11064v1) |
+| Electronic Direct Detection of Light Dark Matter with Intermediate-Mass Mediators | Connor Stratman, Tanner Trickle | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.11063v1) |
 | Milky Way Dynamics Favor Dark Matter over Modified Gravity Models | Zheng-long Wang, Yue-Lin Sming Tsai, Lan Zhang, Yin Wu, Haining Li, Xiang-Xiang Xue, Hongsheng Zhao, Yi-Zhong Fan | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.10857v1) |
 | Distinguishing Higgs portal and neutralino dark matter via vector boson fusion | Amit Chakraborty, Tathagata Ghosh, Rafiqul Rahaman | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.10699v1) |
 | Effective Field Theory for a Baryon-Correlated Dark Matter Profile | Kento Kamada | arXiv | 2026-05-11 | [Link](http://arxiv.org/abs/2605.20217v2) |
