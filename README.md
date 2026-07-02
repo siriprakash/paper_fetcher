@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.07.01
+# Research Paper Digest - 2026.07.02
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -13,6 +13,18 @@ This document summarizes recent research papers based on your specified keywords
 
 | Title | Authors | Source | Published | Link |
 | --- | --- | --- | --- | --- |
+| A self-consistent single-fluid framework for neutron stars admixed with mirror dark matter | Adamu Issifu, Constança Providência, Franciele M. da Silva, Débora P. Menezes, Tobias Frederico | arXiv | 2026-07-01 | [Link](http://arxiv.org/abs/2607.00888v1) |
+| Dark matter energy exchange in stars orbiting supermassive black holes | Stephan A. Meighen-Berger, R. Andrew Gustafson, Nicole F. Bell, Jayden L. Newstead, Sandra Robles, Ian M. Shoemaker | arXiv | 2026-07-01 | [Link](http://arxiv.org/abs/2607.00840v1) |
+| Axion Polarimetric Experiment (APE) | Qazal Rokn, Ryan Netrval, Aldo Ejlli, Guido Mueller | arXiv | 2026-07-01 | [Link](http://arxiv.org/abs/2607.00822v1) |
+| Gravitational Wave Signatures of Schwarzschild Black Hole in a Generalized Dehnen-Type $(1,4,γ)$ Dark Matter Halo | Bahromjon Shokirov, Arabboy Mirzakulov, Tursunali Xamidov, Sanjar Shaymatov | arXiv | 2026-07-01 | [Link](http://arxiv.org/abs/2607.00812v1) |
+| Optically Selected Superthin Galaxies Remain Thin in the Near-infrared | Jianhong Hu, Cheng Li, Dandan Xu | arXiv | 2026-07-01 | [Link](http://arxiv.org/abs/2607.00443v1) |
+| Variability in Supermassive Black-Hole Accretion Rates in Fuzzy Dark Matter Cores due to Black-Hole Wandering | Eric Ludwig, Philip Mocz, Victor Robles | arXiv | 2026-07-01 | [Link](http://arxiv.org/abs/2607.00349v1) |
+| Soft-Dimuon Signature from Two-Component Scalar Dark Matter at the LHC | Alexander Belyaev, Manimala Chakraborti, Shu Chen, Atri Dey, Venus Keus, Rakhi Mahbubani, Stefano Moretti | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2607.00243v1) |
+| Production of Magic States via $Z$ Bosons and Dark Photons | Carlos Alvarado, Alfredo Aranda, César Bonilla, Yahir Lua, Ethan Rodríguez-Martínez | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2607.00229v1) |
+| Cosmology with a Non-minimally Coupled Dark Matter Fluid II. Cosmological Perturbations | Samuele Silveravalle, Andrea Lapi, Francesco Benetti, Stefano Liberati | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2607.00137v1) |
+| SchwarMAX: a GPU-friendly Schwarzschild orbit-superposition modelling framework | HanYuan Zhang, David Chemaly, Eugene Vasiliev, Vasily Belokurov, N. Wyn Evans, Juntai Shen | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2607.00117v1) |
+| Precision Solar System Dynamics for Ultralight Dark Matter Search | Jonas Frerick, Hyungjin Kim, Felix Kling | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2607.00072v1) |
+| Simulation of Axion-Induced Electromagnetic Signal Detection Using Plasmonic Metasurfaces and Diamond NV Centers | James L. Webb | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2607.00068v1) |
 | An overview of stray light findings and interpretation during on-sky commissioning of LSSTCam | Gabriele Rodeghiero, Alex Drlica-Wagner, Alessio Taranto, Luca Rosignoli, Hannah Pollek, Aashay Pai, Lynne Jones, Erin Howard, Sean MacBride, John Andrew, Douglas Neill, Travis Lange, Andrew Rasmussen, Aaron Roodman, Brian Johnson, Elana Urbach, Parker Fragelius, Eli Rykoff, Tomislav Vucina, Christopher Stubbs, Robert Lupton, Charles Claver, Joshua Meyers, Anastasia Alexov, Keith Bechtol, Lee Kelvin, Brian Stalder, Pierre Antilogus, Alexandre Boucaud, Aurelien Marini, Alexander Broughton, Leanne Guy, Tiago Ribeiro, Erik Dennihy, Bruno Quint, Aaron Watkins, Alysha Shugart, Lukas Eisert, Kevin Fanning, Marina Pavlovich, Yijung Kang, Hye Park, Paulo Lago, Kristopher Mortensen, Paulina Venegas Salas, Minhee Hyun, Karla Peña Ramírez, David Sanmartim, Shuang Liang, Gonzalo Aravena, Kshitija Kelkar, Kate Napier, Jacqueline Seron Navarrete, Carlos Morales Marín, Danica Žilková, Narayan Khadka, Eric Christensen, Yousuke Utsumi, Merlin Fisher-Levine, Yusra Alsayyad, Colin Slater, Fritz Müller, William O'Mullane, Enrico Giro, Rodolfo Canestrari, Guillem Homar Megias, Sandrine Thomas, Kevin Reil, Roberto Tighe, Mario Rivera, Juan Lopez, Claudio Araya Cortes, David Jiménez Mejías, Hernán Herrera, Freddy Muñoz Arancibia, Dimitri Buffat, Johan Bregeon, Jacques Sebag, Holger Drass, Pablo Zorzi, Massimo Brescia | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2606.31945v1) |
 | PBHs and GWs from Scaling Monopoles | Daiki Aburatani, Wakutaka Nakano, Wen Yin | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2606.31937v1) |
 | Particle Cosmology | Venus Keus | arXiv | 2026-06-30 | [Link](http://arxiv.org/abs/2606.31812v1) |
@@ -29,7 +41,7 @@ This document summarizes recent research papers based on your specified keywords
 | Fuzzy Dark Matter Halo Mass Functions at Cosmic Dawn | Raghunath Ghara, Adam Lidz, Daniel Grin, Jackson Sipple | arXiv | 2026-06-29 | [Link](http://arxiv.org/abs/2606.30739v1) |
 | Gravitational-Electric Polarization as a Probe of Dark Matter and Modified Gravity | Nirupam Roy | arXiv | 2026-06-29 | [Link](http://arxiv.org/abs/2606.30736v1) |
 | Boosted Dark Matter from Sagittarius A$^\star$ | Javier F. Acevedo, Adam Ritz | arXiv | 2026-06-29 | [Link](http://arxiv.org/abs/2606.30724v1) |
-| Tidal origin of dark-matter free dwarf galaxies in the NGC 1052 group | Francois Hammer, Yanbin Yang | arXiv | 2026-06-29 | [Link](http://arxiv.org/abs/2606.30718v1) |
+| Tidal origin of dark-matter free dwarf galaxies in the NGC 1052 group | Francois Hammer, Yanbin Yang | arXiv | 2026-06-29 | [Link](http://arxiv.org/abs/2606.30718v2) |
 | Galaxy Power Spectrum at Two-Loop Order: Implications for Weak Lensing Surveys and New Physics | Mikhail M. Ivanov | arXiv | 2026-06-29 | [Link](http://arxiv.org/abs/2606.30713v1) |
 | Gaussian processes on ray-guided transformed uniform grids for fast, flexible, and auto-differentiable adaptive source reconstruction in lens modelling | Wolfgang J. R. Enzi, Coleman M. Krawczyk, Tian Li, Thomas E. Collett | arXiv | 2026-06-29 | [Link](http://arxiv.org/abs/2606.30620v1) |
 | Wave Optics Effects from Gravitational Wave Propagation Through Dark Matter Halos | Annamalai P. Shanmugaraj, Roland Haas, Erik Schnetter, Sofie Marie Koksbang | arXiv | 2026-06-29 | [Link](http://arxiv.org/abs/2606.30149v1) |
@@ -301,16 +313,4 @@ This document summarizes recent research papers based on your specified keywords
 | Generative Diffusion Priors for 3D Mapping of the Dark Universe | Brandon Zhao, Diana Scognamiglio, Olivier Doré, Katherine L. Bouman | arXiv | 2026-05-30 | [Link](http://arxiv.org/abs/2606.00803v1) |
 | Decaying Dark Matter as a Possible Solution for Cosmological Tensions | Yaman Acharya, Ryan E. Johnson | arXiv | 2026-05-30 | [Link](http://arxiv.org/abs/2606.00529v1) |
 | Accelerating Surface Radiation Content to Investigate the Impact of Radon Progeny on Superconducting Qubits | Sagar S. Poudel, Dylan J. Temples, Ryan Linehan, Alejandro Rodriguez, Matthew Hall, Dax Kay, Nathaniel Rodenburg, Daniel Baxter, Enectali Figueroa-Feliciano, Richard W. Schnee, Lauren Hsu | arXiv | 2026-05-30 | [Link](http://arxiv.org/abs/2606.00473v1) |
-| Matter-Wave Interferometers as Open-System Dark Matter Detectors | Leonardo Badurina, Kathryn M. Zurek | arXiv | 2026-05-29 | [Link](http://arxiv.org/abs/2606.00237v1) |
-| It's Not Just Star Formation: A trend of low dark matter densities in the Andromeda dwarf galaxy system | Connor S. Pickett, Michelle L. M. Collins, Justin I. Read, R. Michael Rich, Emily J. E. Charles, Erik Tollerud, Nicolas Martin, Scott Chapman, Alan McConnachie, Alessandro Savino, Daniel R. Weisz | arXiv | 2026-05-29 | [Link](http://arxiv.org/abs/2606.00221v1) |
-| Gravitational Waves from hybrid defects as probe of Flavor symmetry breaking: Machine-Learning Approach | Anish Ghoshal, Ilia Gogoladze, Amit Tiwari | arXiv | 2026-05-29 | [Link](http://arxiv.org/abs/2605.31600v1) |
-| Gravothermal Collapse: Robust Against Baryonic Feedback | Demao Kong, Hai-Bo Yu | arXiv | 2026-05-29 | [Link](http://arxiv.org/abs/2605.31335v1) |
-| The MeerKAT Thousand-Pulsar Polarisation Array II: Searches for Ultralight Axion-Like Dark Matter | Zi-Yan Yuwen, Michael Sarkis, Yin-Zhe Ma, Tao Liu, Jing Ren, Patrick Weltevrede, Xiao Xue | arXiv | 2026-05-29 | [Link](http://arxiv.org/abs/2605.31024v1) |
-| Statistical imprints of wave-like dark matter on multiply-imaged galaxies in strong cluster lenses from JWST | Nino Ephremidze, Daniel Gilman, Cora Dvorkin | arXiv | 2026-05-28 | [Link](http://arxiv.org/abs/2605.30649v1) |
-| Cosmological accretion onto braneworld black holes: a relativistic treatment | Itzi Aldecoa-Tamayo, Christian T. Byrnes, David Seery | arXiv | 2026-05-28 | [Link](http://arxiv.org/abs/2605.30446v1) |
-| Characterization of Spurious Charge in SENSEI Skipper-CCDs | Yikai Wu, Ansh Desai, Sho Uemura, Ana M. Botti, Brenda A. Cervantes-Vergara, Fernando Chierchie, Alex Drlica-Wagner, Rouven Essig, Juan Estrada, Erez Etzion, Guillermo Fernandez Moroni, Miqueas Gamero, Stephen E. Holland, Ian Lawson, Steffon Luoma, Nathan A. Saffold, Miguel Sofo-Haro, Javier Tiffenberg, Tomer Volansky | arXiv | 2026-05-28 | [Link](http://arxiv.org/abs/2605.30281v1) |
-| Late-time Quantum Vacuum Decay and its Cosmological Implications | Yang Bai, Sida Lu, Nicholas Orlofsky | arXiv | 2026-05-28 | [Link](http://arxiv.org/abs/2605.30259v1) |
-| Supermassive black hole seeds from direct collapse of CDM-curvature peaks | Marco Galoppo, Marco Bruni, Tomohiro Harada | arXiv | 2026-05-28 | [Link](http://arxiv.org/abs/2605.30145v1) |
-| Problems of cosmology on small scales of the Universe | I. D. Karachentsev | arXiv | 2026-05-28 | [Link](http://arxiv.org/abs/2605.29899v1) |
-| Exploring the High-Redshift 21-cm Signal via Self-Consistent Simulations using Artificial Neural Network Emulation | Colton R. Feathers, Eli Visbal, Steven Murray, Ryan Hazlett, Yin-Zhe Ma | arXiv | 2026-05-28 | [Link](http://arxiv.org/abs/2605.29876v1) |
 
