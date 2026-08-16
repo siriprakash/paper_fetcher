@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.08.15
+# Research Paper Digest - 2026.08.16
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -154,8 +154,8 @@ This document summarizes recent research papers based on your specified keywords
 | Semi-analytic Inference of Satellite Densities in the Cold Dark Matter Model Part II. Implications for Dark Matter Indirect Detection Constraints | Kailash Raman, Dylan Folsom, Manoj Kaplinghat, Mariangela Lisanti, Benjamin R. Safdi | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27326v1) |
 | Semi-analytic Inference of Satellite Densities in the Cold Dark Matter Model Part I. Comparison to Ultra-faint Dwarf Kinematics | Kailash Raman, Dylan Folsom, Manoj Kaplinghat, Mariangela Lisanti, Benjamin R. Safdi | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27316v1) |
 | Non-linear Evolution of Dark Plasma Subhalos | Andrew Liu, Anirudh Prabhu, Akaxia Cruz, Mariangela Lisanti | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27312v1) |
-| The Dark Dimension meets the Axiverse | Kevin Langhoff, Maria Ramos, Mario Reig | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27314v1) |
 | Suppressed Quantum Effects of Weakly Coupled Waves | Yunjia Bao, Dhong Yeon Cheong, Nicholas L. Rodd, Joey Takach, Lian-Tao Wang, Kevin Zhou | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27313v1) |
+| The Dark Dimension meets the Axiverse | Kevin Langhoff, Maria Ramos, Mario Reig | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27314v1) |
 | Quadratic Axion Couplings in String Theory | Naman Agarwal, Andrew R. Frey, Ratul Mahanta, Evan McDonough | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27190v1) |
 | Quantum Field Theory Of Cosmological Perturbations Induced By Ultralight Dark Matter | Tomislav Prokopec, Marco Vecchioni | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27133v1) |
 | Universality of dual mass-scaled fundamental modes in two-fluid neutron stars with mirror dark matter | Hajime Sotani, Ankit Kumar | arXiv | 2026-07-29 | [Link](http://arxiv.org/abs/2607.27005v1) |
