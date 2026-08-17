@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.08.16
+# Research Paper Digest - 2026.08.17
 
 This document summarizes recent research papers based on your specified keywords.
 
