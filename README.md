@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.08.20
+# Research Paper Digest - 2026.08.21
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -13,6 +13,11 @@ This document summarizes recent research papers based on your specified keywords
 
 | Title | Authors | Source | Published | Link |
 | --- | --- | --- | --- | --- |
+| Modelling electroweak interactions at lepton colliders - from the Z pole to the highest energies | Krzysztof Mękała | arXiv | 2026-08-19 | [Link](http://arxiv.org/abs/2608.18788v1) |
+| Technical Proposal for the Atom Interferometer CERN Experiment (AICE) Facility | Gianluigi Arduini, Nadja Augst, Mark G. Bason, Charles Baynham, Andrea Bertoldi, Gianfranco Bertone, Diego Blas, Daniela Bortoletto, Sougato Bose, Roberto Ales Bozzi, Oliver Buchmueller, Tamara Alice Bud, Clare Burrage, Sergio Calatroni, John Carlton, Vassilis Charmandaris, Maria Luisa Chiofalo, Pierre Cladé, Jonathon Coleman, Fabio Corsanego, Albert De Roeck, Arnaud Devienne, Fabio Di Pumpo, John Ellis, Pierre Fayet, Chris Foot, Elina Fuchs, Naceur Gaaloul, Susan Gardner, Enno Giese, Eduardo Granados, Saïda Guellati-Khelifa, Michael Guinchard, Timo Hakulinen, Tiffany Harte, Richard Hobson, Michael Holynski, Angelo Infantino, Alex Kehagias, Eva Kilian-Rademacher, Wolfgang Korsch, Damien Lafarge, Samuel Lellouch, Lucas Lombriser, Elias Lopez Asamar, J. Luis Lopez-Gonzalez, Michele Maggiore, Charline Marcel, Anna Marchant, Christopher McCabe, Gaetano Mileti, Peter Millington, Jeremiah Mitchell, Noam Mouelle, Angel Navascues Cornago, François Pillon, Rosa Poggiani, Johann Rafelski, Ernst M. Rasel, Maike Reckermann, Albert Roura, Rui Samoes, Federico Sanchez Nieto, Jack Sander, Carlo Scarcia, Jesse Schelfhout, Wolfgang Schleich, Dennis Schlippert, Ulrich Schneider, Steven Schramm, Florian Schreck, Olga Sergijenko, Marcelle Soares-Santos, Guglielmo M. Tino, Jonathan N. Tinsley, Tristan Valenzuela, Daniel Valuch, Maurits van der Grinten, Klaasjan van Druten, Ville Vaskonen, Wolf von Klitzing, Michael Werner | arXiv | 2026-08-19 | [Link](http://arxiv.org/abs/2608.18743v1) |
+| Dynamics of tidal dwarf galaxies in the system Arp 72 | Osvan M. Portilla-Narvaez, Javier Zaragoza-Cardiel, Gisela N. Ortiz-León, Y. D. Mayya, Beverly J. Smith, Chandreyee Sengupta, Mark L. Giroux, S. Comerón, Luz I. Alvarez-Cruz | arXiv | 2026-08-18 | [Link](http://arxiv.org/abs/2608.18385v1) |
+| Mapping the Information Geometry of an Unresolved Dark Matter Population using a Differentiable Strong Lensing Simulator | Alexandre Adam | arXiv | 2026-08-18 | [Link](http://arxiv.org/abs/2608.18224v1) |
+| Towards Quantum-Dot Detectors as Barcodes for Dark Matter Interactions | Marek Matas, Andrea Gallo Rosso, Antonio Cammarata, Nora Hoch, Carlos Blanco, Jan Conrad, Rouven Essig, Tim Linden, Lindley Winslow | arXiv | 2026-08-18 | [Link](http://arxiv.org/abs/2608.18204v1) |
 | Imprints of Mass Accretion History on Galaxy Cluster Morphology | Kabelo Tsiane, Camille Avestruz, Elena Rasia, Roan Haggar, Jesse B. Golden-Marx, Guillaume Mahler, Elizaveta Sazonova, James Taylor, Massimo Meneghetti | arXiv | 2026-08-18 | [Link](http://arxiv.org/abs/2608.18031v1) |
 | eROSITA cosmology with galaxy groups: hot gas budget out to the virial radius | H. Khalil, A. Finoguenov, D. Eckert, R. Seppi, E. Tempel, L. Lovisari, F. Gastaldello | arXiv | 2026-08-18 | [Link](http://arxiv.org/abs/2608.17735v1) |
 | $R_{\rm e}$, or not $R_{\rm e}$: Developing $R_5\equiv R_{-2}$ as a scale radius for galaxy sizes, masses, and mass-to-light ratios | Alister W. Graham | arXiv | 2026-08-18 | [Link](http://arxiv.org/abs/2608.17680v1) |
@@ -308,9 +313,4 @@ This document summarizes recent research papers based on your specified keywords
 | A Catalog of Compact High-Velocity Clouds from the FAST All-Sky HI Survey (FASHI) DR2 | Jin-Long Xu, Chuan-Peng Zhang, Xiao-Lan Liu, Nai-Ping Yu, Mei Ai, Ming Zhu | arXiv | 2026-07-16 | [Link](http://arxiv.org/abs/2607.14584v1) |
 | Revisiting Data Quality Control and Multiple-star Modeling in Wide Binary Gravity Tests: Confirmation of MOND-type Gravitational Anomaly at Low Acceleration | Kyu-Hyun Chae, Youngsub Yoon | arXiv | 2026-07-16 | [Link](http://arxiv.org/abs/2607.14450v1) |
 | Lectures on Open Systems and Cosmology | Enrico Pajer | arXiv | 2026-07-15 | [Link](http://arxiv.org/abs/2607.14351v1) |
-| Misalignment production of isotropized vector dark matter? | Chong-Bin Chen | arXiv | 2026-07-15 | [Link](http://arxiv.org/abs/2607.14267v2) |
-| Constraining the Coexistence of Primordial Black Holes and Particle Dark Matter with Neutrino Observations | Prolay Chanda, Sagnik Mukherjee, James Unwin | arXiv | 2026-07-15 | [Link](http://arxiv.org/abs/2607.14253v1) |
-| Dark matter in composite Higgs models with a scotogenic EFT | Yu Chen, Werner Porod | arXiv | 2026-07-15 | [Link](http://arxiv.org/abs/2607.14210v1) |
-| Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data | Roman Akhmetshyn, Jack Elvin-Poole, Michael J. Hudson, Isaac Cheng, Thomas de Boer, Sébastien Fabbro, Sam Farrens, Sacha Guerrini, Axel Guinot, Stephen Gwyn, Hendrik Hildebrandt, Martin Kilbinger, Charlie T. Mpetha, Calum Murray, Ludovic Van Waerbeke, Anna Wittje | arXiv | 2026-07-15 | [Link](http://arxiv.org/abs/2607.14207v1) |
-| Supermagnified Stars in Lensing Clusters and Small-Scale Structure in the Dark Matter | Gabriel Torralba, Jordi Miralda-Escudé | arXiv | 2026-07-15 | [Link](http://arxiv.org/abs/2607.14034v1) |
 
