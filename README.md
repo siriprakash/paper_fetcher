@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.08.22
+# Research Paper Digest - 2026.08.23
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -179,8 +179,8 @@ This document summarizes recent research papers based on your specified keywords
 | Molecular clouds constraints on sub-GeV DM and asteroid-mass PBHs | Asier Salces Pérez, Pedro de la Torre Luque | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2607.28823v1) |
 | Ab Initio Cosmological Simulations: From Inflation to Present-Day Structure Formation | Drew Jamieson, Angelo Caravano, Eiichiro Komatsu | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2607.28800v1) |
 | A geometric origin for the radiative neutrino portal to secluded dark matter | Mattia Di Mauro | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2607.28754v1) |
-| Natural Phantom Crossing from Axion-WIMP Interactions | Cédric Delaunay, Seung J. Lee, Yuan Yin, Bingrong Yu | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2607.28721v1) |
 | Gravity Probe-DM: The Gravitational Laboratory for Dark Matter | Yu-Dai Tsai, Hayden R. Foote | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2607.28722v1) |
+| Natural Phantom Crossing from Axion-WIMP Interactions | Cédric Delaunay, Seung J. Lee, Yuan Yin, Bingrong Yu | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2607.28721v1) |
 | Cosmo-SPINN: Fuzzy Dark Matter Simulations with Physics-Informed Generative Networks | Ashutosh Kumar Mishra, Emma Tolley, Nicolas Cerardi | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2607.28604v1) |
 | Dark Matter Constraints from Small-Scale Cosmic Structure | Ethan O. Nadler, Keir K. Rogers, Alex Drlica-Wagner | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2607.28564v1) |
 | Microscopic Interaction versus Purely Gravitational Coupling in Strange Quark Stars Admixed with Dark Matter: A One-Fluid and Two-Fluid Comparison | J. Sedaghat, G. H. Bordbar, M. Haghighat, S. M. Zebarjad | arXiv | 2026-07-30 | [Link](http://arxiv.org/abs/2608.12383v1) |
