@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.09.23
+# Research Paper Digest - 2026.09.24
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -13,7 +13,21 @@ This document summarizes recent research papers based on your specified keywords
 
 | Title | Authors | Source | Published | Link |
 | --- | --- | --- | --- | --- |
+| Sterile Neutrino Dark Matter Cries for GeV Heavy Neutral Leptons | Marco Drewes, Yannis Georis, Juraj Klarić, Mikhail Shaposhnikov, Inar Timiryasov | arXiv | 2026-09-23 | [Link](http://arxiv.org/abs/2609.28457v1) |
+| Inelastic dark matter mediated by natural dark photon | Jie Tang, Pei-Hong Gu | arXiv | 2026-09-23 | [Link](http://arxiv.org/abs/2609.28415v1) |
+| A Tentative Line-like GeV Excess in Fermi Blazar 4FGL J1754.2+3212: Implications for Jet Physics and Beyond | Shi-Ju Kang, Yue Yin, Yong-Gang Zheng, Qingwen Wu | arXiv | 2026-09-23 | [Link](http://arxiv.org/abs/2609.28303v1) |
+| JWST evidence for a sharp "Cosmic Daybreak" at z = 15 | Jiashuo Zhang, Tom Broadhurst, Tzihong Chiueh, Keiichi Umetsu, Hsi-Yu Schive, Chian-Chou Chen, Jeremy Lim, Jose M. Diego, Paloma Morilla, Pablo G. Perez-Gonzalez, Rogier Windhorst | arXiv | 2026-09-23 | [Link](http://arxiv.org/abs/2609.28257v1) |
+| Solar capture and annihilation of fermionic and scalar dark matter motivated by the LUX-ZEPLIN high-recoil candidate | Antonio Capolupo, Gabriele Pisacane, Raoul Serao | arXiv | 2026-09-23 | [Link](http://arxiv.org/abs/2609.28218v1) |
+| Dark Matter-Induced Stellar Oscillations in the de Broglie Regime | Qiuyue Liang, Jeremy Sakstein | arXiv | 2026-09-23 | [Link](http://arxiv.org/abs/2609.27559v1) |
+| Quasinormal-mode redshifts of black holes in galactic halos with radial pressures | Che-Yu Chen, Hassan Hassanabadi, Soroush Zare | arXiv | 2026-09-23 | [Link](http://arxiv.org/abs/2609.27379v1) |
+| Shape Degeneracies: the likely culprit for the differences between lens mass models of galaxy clusters | Liliya L. R. Williams, Derek C. Perera, Jori Liesenborgs, Ashish K. Meena, Marceau Limousin, Leon R. Ecker | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.27147v1) |
+| The galactic HI-to-halo mass relation from isolated galaxies to cosmological hydrodynamic simulations | Marie Korsaga, Jonathan Freundlich, Benoit Famaey, Lourdes Verdes-Montenegro, Amidou Sorgho, Federico Baraggioni, Andrea V. Maccio, Katarina Kraljic, Laurent Chemin, Peter Kamphuis, Philippe Amram, Benoit Epinat, Roger Ianjamasimanana, Martin Bureau, Pandora Dominiak, Brenda Namumba, Julian Garrido, Susana Sanchez-Exposito | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.27111v1) |
+| From starlight to dark matter: a stochastic interpolation approach to map dark matter from stellar density | Xiaowei Ou, Lina Necib, Carolina Cuesta-Lazaro, Paul Torrey, Niusha Ahvazi, Alyson M. Brooks, Berthy T. Feng, Alex M. Garcia, Jiaxuan Li, Jonah C. Rose, Xuejian Shen, Mark Vogelsberger | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.27028v1) |
+| Supernova Gamma-Ray Echo as an Astrophysical Near Detector for Galactic Neutrino Propagation | Garv Chauhan, Yago Porto | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.26908v1) |
+| Benchmark Dark SMEFT Scenarios from the Interplay of Flavor Physics and Dark Matter Searches | Lipika Kolay, Soumitra Nandi, Ipsita Ray | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.26886v1) |
+| Precise QCD Predictions for the Scotogenic Model at Colliders | Mohammed Boukidi, Camila Ramos, Richard Ruiz | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.26876v1) |
 | Resonant neutrino flavor conversion within dark matter spikes | P. S. Bhupal Dev, Elisa Gaido, Alejandro Ibarra, Yago Porto | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.26773v1) |
+| The LHC is not enough: the LZ High-Recoil Event at FCC-hh and a Muon Collider | Benedikt Maier, Michael Spannowsky | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.26870v1) |
 | Model-Independent Sideband Constraints on Inelastic Dark Matter at the LZ High-Recoil Candidate | David Delepine, Shaaban Khalil | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.26698v1) |
 | Dark-matter relay for ultra-high-energy cosmic rays | Mikhail Sekretov | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.26611v1) |
 | A Simple Dark Matter Model to Explain the LZ Event and Galactic Center Excess | Caleb Gemmell, Dan Hooper, Gordan Krnjaic | arXiv | 2026-09-22 | [Link](http://arxiv.org/abs/2609.26570v1) |
@@ -27,7 +41,7 @@ This document summarizes recent research papers based on your specified keywords
 | Dark matter haloes from dwarf to massive galaxies: no systematic inner-density tension with ΛCDM hydrodynamical simulations | Pavel E. Mancera Piña, Justin I. Read, Jorge Sarrato-Alós, Claudia Muni | arXiv | 2026-09-21 | [Link](http://arxiv.org/abs/2609.25220v1) |
 | Interpreting the LZ 248 keV Event using Dark QCD | Francesco Sannino, Jessica Turner | arXiv | 2026-09-21 | [Link](http://arxiv.org/abs/2609.24988v1) |
 | A closer look at the LZ 248 keV event through the lens of cosmic-ray boosted dark matter | Bhavesh Chauhan, Soham Sahasrabuddhe, Manibrata Sen | arXiv | 2026-09-21 | [Link](http://arxiv.org/abs/2609.24982v1) |
-| Two-dimensional weak lensing shear for cluster mass, concentration, ellipticity and miscentering estimation | Calum Murray, Martin Kilbinger, Constantin Payerne | arXiv | 2026-09-21 | [Link](http://arxiv.org/abs/2609.24948v1) |
+| Two-dimensional weak lensing shear for cluster mass, concentration, ellipticity and miscentering estimation | Calum Murray, Martin Kilbinger, Constantin Payerne | arXiv | 2026-09-21 | [Link](http://arxiv.org/abs/2609.24948v2) |
 | Luminosity Signatures of Dark Sector Particles from Black Hole Evaporation in Neutron Stars | Ioannis Dalianis, Anastasios Irakleous | arXiv | 2026-09-21 | [Link](http://arxiv.org/abs/2609.24914v1) |
 | A New Probe of Strongly-Interacting Dark Sector using Neutrino Telescopes | Jose A. Macias Cruz, Christopher V. Cappiello, P. S. Bhupal Dev, Suchita Kulkarni | arXiv | 2026-09-21 | [Link](http://arxiv.org/abs/2609.24887v1) |
 | Impact of nuclear shell model uncertainties on silicon and germanium WIMP-nucleus limits | M. J. Zurowski, R. Abdel Khaleq | arXiv | 2026-09-21 | [Link](http://arxiv.org/abs/2609.24764v1) |
@@ -299,18 +313,4 @@ This document summarizes recent research papers based on your specified keywords
 | Disc-Based Estimation of the Local Dark Matter Density and Velocity Distribution in IllustrisTNG50 | Hatsume Chujo, Shogo Masaki, Keiko I. Nagao, Takuho Nakabayashi | arXiv | 2026-09-02 | [Link](http://arxiv.org/abs/2609.02185v1) |
 | Scalar Field Model for Dark Matter Spikes Surrounding Sgr A$^*$ and M87$^*$ | Ramin G. Daghigh, Michael D. Green, Gabor Kunstatter | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01900v1) |
 | A PQ-Symmetric High-Scale SUSY Interpretation of the LZ High-Energy Recoil | Wen Yin | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01892v1) |
-| Dark Matter Halo Tumbling Induced by Torques from Massive Mergers | Neil Ash, Monica Valluri | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01796v1) |
-| Tremaine-Gunn Control: Evading Bounds on Light Fermion Dark Matter | Joel Barir, Diego Blas, Anubhav Mathur, Tomer Volansky | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01727v1) |
-| Axion Quality from Exact Proton Stability | Joe Davighi, Admir Greljo, Xavier Ponce Díaz | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01712v1) |
-| Fermionic Dark Matter Absorption and the High-Energy Event in LUX-ZEPLIN | Yuanchao Lou, Chih-Ting Lu | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01592v2) |
-| TeV Higgsino Dark Matter from LZ Nuclear Recoil to Fermi-LAT Gamma Rays | Lei Wu, Yang Zhang, Bin Zhu | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01590v2) |
-| Higgsino Dark Matter Interpretation of the LUX-ZEPLIN 248 keV Nuclear-Recoil Event | Katherine Freese, Dionysios P. Theodosopoulos | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01583v1) |
-| Higgsino Above the Sea of Fog | JiJi Fan, Matthew Reece | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01504v2) |
-| Dark-Sector Effects on the Phase Structure of Nonlinear Magnetic AdS Black Holes | Carlos E. Romero-Figueroa, J. R. Villanueva | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01695v2) |
-| Inelastic Dark Matter Signature at High Recoil Energy in LUX-ZEPLIN and CRESST | Liangliang Su, Jin Min Yang, Wen-Na Yang | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01475v1) |
-| Scalar wave scattering by black holes embedded in dark matter halos | Shi-Qian Hu, Federico Piazza | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01391v1) |
-| First tomographic measurements of the angular clustering and bias of photometric quasars from S-PLUS | Maria Lopes, Felipe Avila, Armando Bernui, Lilianne Nakazono | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01238v1) |
-| Slow stellar halo rotation as a signature of disc flips and GES-like mergers | Kirill Batrakov, Alis J. Deason, Francesca Fragkoudi, Thomas Tomlinson, Azadeh Fattahi, Vasily Belokurov | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.01208v1) |
-| Extragalactic Stellar Streams in Time-Dependent Cosmological Halos | Sarah Pearson, Jacob Nibauer, Emily C. Cunningham, Adrian M. Price-Whelan, Adrien C. R. Thob, Arpit Arora, Robyn E. Sanderson | arXiv | 2026-09-01 | [Link](http://arxiv.org/abs/2609.00526v1) |
-| Proposing GRENDEL: GalleRy ExperimeNt for Decays of Exotic LLPs at the LHC | Matthew Citron, Federico Redi, Ryan Schmitz | arXiv | 2026-08-31 | [Link](http://arxiv.org/abs/2609.00152v1) |
 
