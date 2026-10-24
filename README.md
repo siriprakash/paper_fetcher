@@ -1,4 +1,4 @@
-# Research Paper Digest - 2026.10.23
+# Research Paper Digest - 2026.10.24
 
 This document summarizes recent research papers based on your specified keywords.
 
@@ -236,8 +236,8 @@ This document summarizes recent research papers based on your specified keywords
 | The Largest Catalog of Dwarf Galaxy Groups: Transient Structures or Building Blocks of the Universe? | Marko Mićić | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.02587v1) |
 | $SU(\mathcal{N})$ baryon formation in the early Universe and dark matter | Luca Di Luzio, Samuele Di Valeriano, Enrico Nardi | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.02464v1) |
 | High Energy Neutrinos, Gravitational Waves, and Dark Matter from a Cosmological First Order Phase Transition | James M. Cline, Savas Stoica, Yong Xu | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.02420v1) |
-| Shining LIMelight into the dark: Probing Dark matter - baryon interactions with Line Intensity Mapping | Durba Ghosh, Ranjini Mondol, Ranjan Laha | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.02311v1) |
 | Point spread function requirements for dark matter subhalo detection with the Habitable Worlds Observatory | Georgios N. Vassilakis, Susan F. Redmond, Jason D. Rhodes, Richard J. Massey, Qiuhan He | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.02315v1) |
+| Shining LIMelight into the dark: Probing Dark matter - baryon interactions with Line Intensity Mapping | Durba Ghosh, Ranjini Mondol, Ranjan Laha | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.02311v1) |
 | Trace-anomaly decomposition and universal dark matter scaling in compact stars | Adamu Issifu, Constança Providência, Tobias Frederico | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.01991v1) |
 | Recycling serendipitous observations of XRISM for dark matter searches | Lidiia Zadorozhna, Denys Malyshev, Oleg Ruchayskiy | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.01877v1) |
 | Slingshot on compact binaries in the nuclear region of galaxies as the origin of large offset gamma-ray bursts | Juan C. Rodríguez-Ramírez, Viviane Alfradique, Clécio R. Bom, Davi C. Rodrigues | arXiv | 2026-10-01 | [Link](http://arxiv.org/abs/2610.01850v1) |
